@@ -1,3 +1,6 @@
+>[!error] Roll 1d100
+>`dice: [[Theme#^table]]`
+
 | Roll| Value         |
 | --- | ------------ |
 | 1   | Risk             |

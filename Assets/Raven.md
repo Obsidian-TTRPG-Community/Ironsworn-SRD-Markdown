@@ -11,3 +11,12 @@ newColumn8:
   - Companion
 column1: Raven
 ---
+# Raven
+#Asset/Companion 
+## Name: 
+## Your raven heeds your call.
+- <input type="checkbox">Sly: When you [[Secure an Advantage]] or [[Face Danger]] +shadow using your raven to perform trickery (such as creating a distraction or stealing a small object) add +1 and take +1 momentum on a hit.
+- <input type="checkbox">Knowing: When you [[Face Death]], add +2 and take +1 momentum on a hit.
+- <input type="checkbox">Diligent: When your raven carries messages for you, you may [[Secure an Advantage]], [[Gather Information]], or [[Compel]] from a distance.
+
+## Health: 2

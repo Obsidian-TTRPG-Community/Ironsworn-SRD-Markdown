@@ -1,5 +1,5 @@
 ### Secure an Advantage
-> [!note]+ Secure an Advantage
+> [!tldr] Secure an Advantage
 > When you assess a situation, make preparations, or attempt to gain leverage, envision your action and roll. If you act...
 > - With speed, agility, or precision: roll +edge.
 > - With charm, loyalty or courage: roll +heart.

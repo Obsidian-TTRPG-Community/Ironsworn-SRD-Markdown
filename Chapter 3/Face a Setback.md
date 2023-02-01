@@ -1,4 +1,4 @@
-## Face a Setback
+# Face a Setback
 >[!tldr] Face a Setback
 >When your momentum is at its minimum (-6), and you suffer additional -momentum, choose one.
 >- Exchange each additional -momentum for any combination of-health, -spirit, or -supply as appropriate to the circumstances.

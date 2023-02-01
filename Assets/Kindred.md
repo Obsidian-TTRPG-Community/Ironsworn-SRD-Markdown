@@ -14,3 +14,14 @@ newColumn8:
   - Companion
 Special: Expertise -
 ---
+# Kindred
+#Asset/Companion 
+
+## Name: 
+## Your friend stands by you.
+- <input type="checkbox" checked>Skilled: When you make a move outside of combat aided by your companion’sexpertise, add +1. 
+- <input type="checkbox">Shield-Kin: When you [[Clash]] or [[Battle]] alongside your companion, or when you [[Face Danger]] against an attack by standing together, add +1.
+- <input type="checkbox">Bonded: Once you mark a bond with your companion, add +1 when you [[Face Desolation]] in their presence.
+## Expertise:
+
+## Health: 4

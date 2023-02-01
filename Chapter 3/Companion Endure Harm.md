@@ -1,4 +1,4 @@
-## Companion Endure Harm
+# Companion Endure Harm
 >[!tldr] Companion Endure Harm
 >When your companion faces physical damage, they suffer -health equal to the amount of harm inflicted. If your companion’s health is 0, exchange any leftover -health for -momentum.
 >

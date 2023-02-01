@@ -1,4 +1,4 @@
-## Endure Stress
+# Endure Stress
 >[!tldr] Endure Stress
 >When you face mental shock or despair, suffer -spirit equal to your foe’s rank or as appropriate to the situation. If your spirit is 0, suffer -momentum equal to any remaining -spirit.
 >
@@ -22,7 +22,7 @@ Make this move when your courage fails you, when you are unnerved or disheartene
 
 When you are forced to Pay the Price, you should Endure Stress if mental hardship is an obvious and dramatic outcome of the current situation. Also, some moves and assets will direct you to Endure Stress as a cost or concession, and may indicate a specific amount of stress to suffer.
 
-If you are demoralized or frightened by an NPC foe, you can use their rank (page 134) to determine amount of stress you must suffer. If the amount of stress is not provided or obvious, use the following guidelines.
+If you are demoralized or frightened by an NPC foe, you can use their rank [[Componants of an NPC#^table|rank]] to determine amount of stress you must suffer. If the amount of stress is not provided or obvious, use the following guidelines.
 >[!fail] If you are demoralized or frightened:
 >- Troublesome (1 stress): An unsettling incident or a frustrating failure.
 >- Dangerous (2 stress): A distressing incident or an upsetting failure.
@@ -38,6 +38,6 @@ Next, reduce your spirit track by the amount suffered. If your spirit is at 0, a
 
 On a strong hit, you are unfazed. You can suffer 1 less spirit or take +1 momentum. On a weak hit, you are rattled but carry on.
 
-When you score a miss with 0 spirit, you need to make an important decision. Do you risk the potential for desolation by rolling on the oracle table, or mark a debility? The shaken debility (page 37) is temporary and can be dealt with through the Sojourn move, but becoming corrupted (page 38) is a permanent, life-altering event.
+When you score a miss with 0 spirit, you need to make an important decision. Do you risk the potential for desolation by rolling on the oracle table, or mark a debility? The [[Conditions#^conditions|shaken]] debility is temporary and can be dealt with through the Sojourn move, but becoming corrupted is a permanent, life-altering event.
 
 If you’ve scored a miss and your debilities are both marked, you must roll on the table to determine your fate.

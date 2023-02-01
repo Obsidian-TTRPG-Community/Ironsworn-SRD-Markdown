@@ -13,3 +13,12 @@ newColumn8:
   - Asset
   - Companion
 ---
+# Mammoth
+#Asset/Companion 
+
+## Your mammoth walks a resolute path.
+- <input type="checkbox" checked>Lumbering: When your mammoth travels with you as you [[Undertake a Journey]], you may add +2 but suffer -1 momentum (decide before rolling).
+- <input type="checkbox">Beast of burden: When you make a move which requires you to roll +supply, you may instead roll +your mammoth’s health.
+- <input type="checkbox">Overpowering: When you [[Strike]] or [[Clash]] by riding your mammoth against a pack of foes, add +1 and inflict +1 harm on a hit.
+
+## Health: 5

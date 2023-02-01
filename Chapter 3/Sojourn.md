@@ -1,4 +1,4 @@
-## Sojourn
+# Sojourn
 
 >[!tldr] Sojourn
 >When you spend time in a community seeking assistance, roll +heart. If you share a bond, add +1.
@@ -19,9 +19,9 @@
 >- Plan: Take +2 momentum.
 >
 >Provide Aid
->- Take a quest: Envision what this community needs, or whattrouble it is facing (Ask the Oracle if unsure). If you chose tohelp, Swear an Iron Vow and add +1. 
+>- Take a quest: Envision what this community needs, or whattrouble it is facing ([[Ask the Oracle]] if unsure). If you chose tohelp, [[Swear an Iron Vow]] and add +1. 
 >
->On a miss, you find no help here. Pay the Price.
+>On a miss, you find no help here. [[Pay the Price]].
 
 Communities stand as an oasis within the perilous wilds of the Ironlands. They are a source of protection, trade, and fellowship. However, there are no grand cities like those that stood in the Old World. Life here is too harsh. Resources too few.
 

@@ -1,0 +1,2 @@
+## GM's and the Dice
+If you are playing as a GM, you can focus on guiding the game and responding to your player’s questions and actions. Since NPCs don’t make moves, you won’t need to make action rolls. However, you might want to have a pair of D10’s available for [[#^4d3324|oracle rolls]].

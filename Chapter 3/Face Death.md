@@ -1,4 +1,4 @@
-## Face Death
+# Face Death
 >[!tldr] Face Death
 >When you are brought to the brink of death, and glimpse the world beyond, roll +heart.
 >

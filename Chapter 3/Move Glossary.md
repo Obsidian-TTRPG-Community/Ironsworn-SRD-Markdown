@@ -9,7 +9,7 @@ status:
 cssclass:
 words:
 ---
-%% From [[Ironsworn Chapter 3 - Moves]]%%
+%% From [[03 Chapter - Moves]]%%
 ### Move Glossary
 There are several common phrases, terms, and prompts you’ll see as part of moves and assets. They are summarized here (in alphabetical order).
 

@@ -1,4 +1,4 @@
-## Enter the Fray
+# Enter the Fray
 
 >[!tldr] Enter the Fray
 >When you enter into combat, first set the rank of each of your foes.

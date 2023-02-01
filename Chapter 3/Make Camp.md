@@ -1,14 +1,14 @@
 ### Make Camp
->[!note] Make Camp
+>[!tldr] Make Camp
 >When you rest and recover for several hours in the wild, roll +supply.
->On a strong hit, you and your allies may each choose two. On a weak hit, choose one.
+>ON A STRONG HIT, you and your allies may each choose two. ON A WEAK HIT, choose one.
 >- Recuperate: Take +1 health for you and any companions.
->- Partake: Suffer -1 supply and take +1 health for you and anycompanions.
+>- Partake: Suffer -1 supply and take +1 health for you and any companions.
 >- Relax: Take +1 spirit.
 >- Focus: Take +1 momentum.
->- Prepare: When you break camp, add +1 if you Undertake a Journey.
+>- Prepare: When you break camp, add +1 if you [[Undertake a Journey]].
 >
->On a miss, you take no comfort. Pay the Price.
+>ON A MISS, you take no comfort. [[Pay the Price]].
 
 Making camp can be a purely narrative activity and can be abstracted or roleplayed as you like. However, if you need to recover from the struggle of your adventures while traveling through the wilds, make this move.
 

@@ -1,4 +1,4 @@
-## Clash
+# Clash
 >[!tldr] Clash
 >When your foe has initiative and you fight with them in close quarters, roll +iron. When you exchange a volley at range, or shoot at an advancing foe, roll +edge.
 >
@@ -6,7 +6,7 @@
 >- You bolster your position: Take +1 momentum.
 >- You find an opening: Inflict +1 harm.
 >
->On a weak hit, inflict your harm, but then Pay the Price. Your foe has initiative.
+>On a weak hit, inflict your harm, but then [[Pay the Price]]. Your foe has initiative.
 >
 >On a miss, you are outmatched and must Pay the Price. Your foe has initiative.
 
@@ -18,8 +18,8 @@ On a strong hit, you inflict your harm and steal back initiative. On a weak hit,
 
 On a miss, you fail to inflict harm and must Pay the Price. This fight is turning against you.
 
-As with the Strike move, each point of harm you inflict is marked on your foe’s progress track, as appropriate to their rank (page 134).
+As with the Strike move, each point of harm you inflict is marked on your foe’s progress track, as appropriate to their [[Componants of an NPC#^table|rank]].
 
 If you aren’t actively fighting back—you’re just trying to avoid the attack or seeking cover—you should Face Danger instead of Clash. Using that move gives you more flexibility to bring a favored stat into play, and you suffer a relatively minor cost on a weak hit. Unfortunately, you also give up the opportunity to inflict harm on your foe. See page 85 for more about using Face Danger in a fight.
 
-If you ever respond to an attack by just taking the hit, that’s not a move. The outcome isn’t in much doubt. Pay the Price.
+If you ever respond to an attack by just taking the hit, that’s not a move. The outcome isn’t in much doubt. [[Pay the Price]].

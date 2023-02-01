@@ -1,4 +1,4 @@
-## Initiative
+# Initiative
 Initiative is a special mechanic in combat. It reflects who is in control. When you have initiative, you make proactive moves and have more options. When your foe has initiative against you, they are forcing you to react. Initiative shifts between you and your foes depending on the result of your moves. Some moves are inherently proactive or offensive and can only be made when you have initiative. Others are reactive or defensive and are made when your foe has initiative.
 
 Combat moves (page 78) usually specify when you make the move (with or without initiative) and whether you take or lose initiative as part of the outcome. However, you will make moves which aren’t specifically combat moves to take action or avoid dangers in a fight. 
@@ -11,7 +11,7 @@ The ability to take initiative on a strong hit applies even to suffer moves (pag
 
 NPCs do not make moves. When an NPC has initiative, they take actions in the fiction of the scene which force you to react. When you have initiative, you are in control and taking proactive actions to achieve your objectives.
 
-### Initiative and Allies
+## Initiative and Allies
 When you are playing with allies (other player characters), you each track your own initiative based on the outcome of your moves. You can shift the focus between characters and make moves as appropriate to the situation. A character with initiative makes proactive moves to inflict harm or setup an advantage. A character without initiative defends against attacks or tries to get back into the fight.
 
 Keep in mind that initiative doesn’t represent who goes next. Talk out what happens as if moving a virtual camera around your imagined scene. Bring the chaos of a melee to life. Use a dramatic moment to jump to a different character and leave everyone in suspense. Keep things moving to give everyone a chance in the spotlight.
@@ -73,4 +73,3 @@ Keep in mind that initiative doesn’t represent who goes next. Talk out what ha
 > 
 > “Meanwhile,” Tayla says, “you’ve got the other one bearing down on you. They’re holding their shield out like a battering ram. What do you do?
 
-### ![[Move Glossary]]

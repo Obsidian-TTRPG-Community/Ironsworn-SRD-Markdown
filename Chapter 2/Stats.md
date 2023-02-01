@@ -1,3 +1,5 @@
+# Stats
+
 There are five stats. Each is given a value from 1 to 3. When you make a move and roll dice, you usually add one of your stats to your action die. The move will tell you which stat to add, or give you a choice.
 
 >[!tldr] Stats

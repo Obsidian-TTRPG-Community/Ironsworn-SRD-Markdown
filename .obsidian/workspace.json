@@ -8,16 +8,69 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55bb1dba0773920d",
+            "id": "1fc527cc44d6fa4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Forge a Bond.md",
-                "mode": "preview",
+                "file": "Chapter 3/Undertake a Journey.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "3bfc403290beb512"
+          },
+          {
+            "id": "81fe83253a12c31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "e56c2be147e8cee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Combat Moves.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "210930af57a4faa3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4880e6afee022987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a5c8ba2105e600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Undertake a Journey.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "3bfc403290beb512"
           }
         ]
       }
@@ -48,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Your_Truths",
+                "query": "\"(page \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/Forge a Bond.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/Forge a Bond.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/Forge a Bond.md"
+                "file": "README.md"
               }
             }
           }
@@ -144,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 3/Forge a Bond.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,7 +205,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -172,6 +225,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "5c6ca59269384c0c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ]
       }
@@ -189,17 +250,74 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55bb1dba0773920d",
+  "floating": {
+    "id": "144b4dce1c4a9140",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a7b1c8b8b4aef2fd",
+        "type": "window",
+        "children": [
+          {
+            "id": "019c855c903d2ef3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af7a2ab0df65dc9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chapter 1/The Action Roll.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "06c4f6a40650f407"
+              }
+            ]
+          },
+          {
+            "id": "5332d36a41ffa8e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87799171a61b5f04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chapter 1/The Action Roll.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "group": "06c4f6a40650f407"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 592,
+        "y": 21,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "81fe83253a12c31e",
   "lastOpenFiles": [
-    "Assets/Cutthroat.md",
-    "Assets/Communion.md",
-    "Assets/Cave Lion.md",
-    "Assets/Brawler.md",
-    "Assets/Bonded.md",
-    "Assets/Blade-Bound.md",
-    "Assets/Bind.md",
-    "Assets/Berserker.md",
-    "Assets/Battle-Scarred.md",
-    "Assets/Alchemist.md"
+    "Chapter 3/Undertake a Journey.md",
+    "Chapter 1/The Action Roll.md",
+    "Chapter 1/Match.md",
+    "Chapter 3/Combat Moves.md",
+    "Chapter 3/Playing Ironsworn.md",
+    "Chapter 1/What's Next.md",
+    "Chapter 1/01 Chapter - The Basics.md",
+    "Chapter 2/02 Chapter - Your Character.md",
+    "Chapter 2/Debilities.md",
+    "Chapter 3/03 Chapter - Moves.md"
   ]
 }

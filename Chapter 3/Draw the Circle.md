@@ -1,4 +1,4 @@
-## Draw the Circle
+# Draw the Circle
 >[!tldr] Draw the Circle
 >When you challenge someone to a formal duel, or accept a challenge, roll +heart. If you share a bond with this community, add +1.
 >

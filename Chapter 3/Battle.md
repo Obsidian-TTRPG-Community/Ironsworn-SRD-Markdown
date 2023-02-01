@@ -1,4 +1,4 @@
-## Battle
+# Battle
 >[!tldr] Battle
 >When you fight a battle, and it happens in a blur, envision your objective and roll. If you primarily…
 >- Fight at range, or using your speed and the terrain to youradvantage: Roll +edge.

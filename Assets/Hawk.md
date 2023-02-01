@@ -13,3 +13,15 @@ newColumn8:
   - Asset
   - Companion
 ---
+
+# Hawk
+#Asset/Companion 
+
+## Name:
+
+## Your hawk can aid you while it is aloft.
+-<input type="checkbox"> Far-seeing: When you [[Undertake a Journey]], or when you Resupply by hunting for small game, add +1.
+- <input type="checkbox">Fierce: When you [[Secure an Advantage]] +edge using your hawk to harass and distract your foes, add +1 and take +1 momentum on a hit.
+- <input type="checkbox">Vigilant: When you [[Face Danger]] +wits to detect an approaching threat, or when you Enter the Fray +wits against an ambush, add +2
+
+## Health: 3

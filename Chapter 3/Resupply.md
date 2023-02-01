@@ -1,4 +1,4 @@
-> [!note]+ Resupply
+> [!tldr]+ Resupply
 > When you hunt, forage, or scavenge, roll +wits.
 > 
 > On a **Strong Hit**, you bolster your resources. Take +2 supply.
@@ -11,4 +11,4 @@ When you’re in the field and need to bolster your supply track, make this move
 
 If you’re adventuring with allies, you share the same supply value. When one of you makes this move, each of you adjust your supply track.
 
-If you have the unprepared condition marked, you can’t resupply. Instead, you need to find help in a community when you Sojourn.
+If you have the unprepared condition marked, you can’t resupply. Instead, you need to find help in a community when you [[Sojourn]].

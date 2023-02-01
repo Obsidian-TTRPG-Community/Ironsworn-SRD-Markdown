@@ -1,3 +1,6 @@
+>[!error] Roll 1d100
+>`dice: [[Action#^table]]`
+
 
 | dice: 1d100 | Value      |
 | --- | ----------- |

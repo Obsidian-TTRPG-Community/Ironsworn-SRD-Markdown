@@ -1,3 +1,4 @@
+# Ask the Oracle
 When **you seek to resolve questions, discover details in the word, determine how other characters respond, or trigger encounters or events**, 
 
 > [!tldr] You may...
@@ -6,20 +7,17 @@ When **you seek to resolve questions, discover details in the word, determine ho
 > - [[Ask the Oracle#^9866d4|Pick two]]: Envision two options. Rate one as 'likely', and roll on the table below to see if it is true. If not, it is the other.
 > - [[Ask the Oracle#^8b4de1|Spark an Idea]]: Brainstorm or use a random prompt.
 
->[!error] Ask the Oracle
->The answer is 'yes' if the odds are `dice: [[Fate moves - Ask the Oracle#^table]]]` or higher
+>[!error] Ask the Oracle:  `dice: 1d100`
+> 
+> | Odds| The answer is 'yes' if roll... |
+>| --------- | ----------------------------------- |
+>| Almost Certain      | 11 or greater |
+>| Likely| 26 or greater                            |
+>| 50/50     | 51 or greater                     |
+>|Unlikely     | 76 or greater                  |
+>| Small Chance     | 91 or greater          |
+
 ^roll
-
-| dice:1d%| The answer is 'yes' if the odds are |
-| --------- | ----------------------------------- |
-| 1 -10      | Never                       |
-| 11 -20     | Small Chance                            |
-| 21 -36     | Unlikely                             |
-| 37 -62     | 50/50                              |
-| 63 -88     | Likely                      |
-| 89 -100    | Almost Certain                                    |
-
-^table
 
 In solo or co-op play, use this move when you have a question or want to reveal details about your world. In guided play, the GM may use this move to answer their own questions or inspire the story of your game session.
 

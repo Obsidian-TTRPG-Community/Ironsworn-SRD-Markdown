@@ -1,4 +1,4 @@
-## Endure Harm
+# Endure Harm
 
 >[!tldr] Endure Harm
 >When you face physical damage, suffer -health equal to your foe’s rank or as appropriate to the situation. If your health is 0, suffer -momentum equal to any remaining -health.
@@ -26,7 +26,7 @@ If you fail to defend against an attack, suffer an injury, are stricken with dis
 
 When you are forced to Pay the Price, you should Endure Harm if physical damage is an obvious and dramatic outcome of the current situation. Also, some moves and assets will direct you to Endure Harm as a cost or concession, and may indicate a specific amount of harm to suffer.
 
-If you face an attack by an NPC foe, you use their rank (page 134) to determine the amount of harm dealt. If the amount of harm is not indicated or obvious, use the following guidelines.
+If you face an attack by an NPC foe, you use their [[Componants of an NPC#^table|rank]] to determine the amount of harm dealt. If the amount of harm is not indicated or obvious, use the following guidelines.
 
 - Troublesome (1 harm): An attack by a minor foe, a painful injury, or a tiring effort.
 - Dangerous (2 harm): An attack by a skilled foe or deadly creature, a nasty injury, or a demanding effort.
@@ -38,6 +38,6 @@ Next, reduce your health track by the amount suffered. If your health is at 0, a
 
 On a strong hit, you are undaunted. You can regain 1 health or take +1 momentum. On a weak hit, you are battered but manage to persevere. When you score a miss with 0 health, you need to make an important decision.
 
-Do you risk the potential for death by rolling on the oracle table, or mark a debility? The wounded debility (page 37) is temporary and can be dealt with through the Heal or Sojourn moves, but becoming maimed (page 38) is a permanent, life-altering event.
+Do you risk the potential for death by rolling on the oracle table, or mark a debility? The wounded [[debilities|debility]] is temporary and can be dealt with through the [[Heal]] or [[Sojourn]] moves, but becoming  [[Debilities#^banes|maimed]] is a permanent, life-altering event.
 
 If you score a miss and your debilities are already marked, you have no choice. Roll the dice and hope for the best.

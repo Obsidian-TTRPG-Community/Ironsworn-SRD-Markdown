@@ -13,3 +13,14 @@ newColumn8:
   - Asset
   - Companion
 ---
+# Horse
+#Asset/Companion 
+
+## Name: 
+
+## You and your horse ride as one.
+- <input type="checkbox" checked>Swift: When you [[Face Danger]] +edge using your horse’s speed and grace, or when you [[Undertake a Journey]], add +1.
+- <input type="checkbox"> Fearless: When you [[Enter the Fray ]] or [[Secure an Advantage]] +heart by charging into combat, add +1 and take +1 momentum on a hit.
+- <input type="checkbox"> Mighty: When you [[Strike]] or [[ Clash ]]at close range while mounted, add +1 and inflict +1 harm on a hit.
+
+## Health: 5 

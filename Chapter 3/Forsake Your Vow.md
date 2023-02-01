@@ -1,4 +1,4 @@
-## Forsake Your Vow
+# Forsake Your Vow
 >[!tldr] Forsake Your Vow
 >When you **renounce your quest, betray your promise, or the goal is lost to you**, clear the vow and Endure Stress. You suffer -spirit equal to the rank of your quest (troublesome=1; dangerous=2; formidable=3; extreme=4; epic=5).
 

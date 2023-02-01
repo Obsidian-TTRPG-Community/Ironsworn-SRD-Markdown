@@ -1,17 +1,11 @@
----
-column1: Giant Spider
-Description: Your spider uncover secret.
-Ability1: Discreet - When you SECURE AN ADVANTAGE by sending your spider to
-  scout a place, add 1+ and take 1+ momentum on a HIT.
-Ability2: Soul-Piercing - You may FACE DANGER +shadow by sending your spider to
-  secretly study someone. On a HIT, the sider returns to reveal the target's
-  deepest fears through a reflection in its glassy eyes. Use this to GATHER
-  INFORMATION and reroll any dice.
-Ability3: Ensnaring - When your spider sets a trap, add +1 as you ENTER THE FRAY
-  +shadow. on a STRONG HIT, also inflict 2 harm.
-Card_Type: Companion
-newColumn8:
-  - Asset
-  - Companion
-Health: 5
----
+
+# Giant Spider
+#Asset/Companion 
+
+## Name:
+
+## Your spider uncovers secrets.
+- <input type="checkbox">Discreet: When you [[Secure an Advantage]] by sending your spider to scout a place, add +1 and take +1 momentum on a hit.
+- <input type="checkbox">Soul-Piercing: You may [[Face Danger]] +shadow by sending your spider to secretly study someone. On a hit, the spider returns to reveal the target’s deepest fears through a reflection in its glassy eyes. Use this to [[Gather Information]] and reroll any dice.
+- <input type="checkbox">Ensnaring: When your spider sets a trap, add +1 as you [[Enter the Fray]] +shadow. On a strong hit, also inflict 2 harm.
+## Health: 4

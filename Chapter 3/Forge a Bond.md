@@ -1,4 +1,4 @@
-## Forge a Bond
+# Forge a Bond
 >[!tldr] Forge a Bond
 >When you spend significant time with a person or community, stand together to face hardships, or make sacrifices for their cause, you can attempt to create a bond. When you do, roll +heart. If you make this move after you successfully Fulfill Your Vow to their benefit, you may reroll any dice.
 >

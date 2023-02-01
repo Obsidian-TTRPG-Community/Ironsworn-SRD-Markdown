@@ -1,4 +1,4 @@
-### Face Danger
+# Face Danger
 > [!tldr]+ Face Danger
 > When you attempt something risky or react to an imminent threat, envision your action and roll. if you act...
 > - With speed, agility, or precision: roll +edge.
