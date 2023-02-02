@@ -45,7 +45,7 @@ Depending on the pace of your story and your current situation, you may choose t
 
 When you roll a [[Match]], take the opportunity to introduce something unexpected. This could be an encounter, a surprising or dramatic feature of the landscape, or a turn of events in your current quest.
 
-## Makting Progress
+## Marking Progress
 
 When you score a hit and reach a waypoint, you mark progress per the rank of the journey. For example, on a dangerous journey you mark 2 progress. 
 

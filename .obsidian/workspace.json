@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "137a7574984d7173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work in Progress/README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e56c2be147e8cee5",
             "type": "leaf",
             "state": {
@@ -52,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4880e6afee022987",
@@ -139,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 3/Undertake a Journey.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 3/Undertake a Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Chapter 3/Undertake a Journey.md"
               }
             }
           }
@@ -197,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 3/Undertake a Journey.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,8 +318,10 @@
       }
     ]
   },
-  "active": "81fe83253a12c31e",
+  "active": "1fc527cc44d6fa4b",
   "lastOpenFiles": [
+    "Work in Progress/README.md",
+    "README.md",
     "Chapter 3/Undertake a Journey.md",
     "Chapter 1/The Action Roll.md",
     "Chapter 1/Match.md",
@@ -316,8 +329,6 @@
     "Chapter 3/Playing Ironsworn.md",
     "Chapter 1/What's Next.md",
     "Chapter 1/01 Chapter - The Basics.md",
-    "Chapter 2/02 Chapter - Your Character.md",
-    "Chapter 2/Debilities.md",
-    "Chapter 3/03 Chapter - Moves.md"
+    "Chapter 2/02 Chapter - Your Character.md"
   ]
 }
