@@ -8,45 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fc527cc44d6fa4b",
+            "id": "31f4baa2b1be1446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/Progress Tracks.md",
+                "file": "Assets/Berserker.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "3bfc403290beb512"
-          },
-          {
-            "id": "210930af57a4faa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/Improviser.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fa273dd99b8657ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/02 Chapter - Your Character.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "33aed543e75c130f"
+            "group": "905acb5c0b676813"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4880e6afee022987",
@@ -58,25 +32,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/Progress Tracks.md",
+                "file": "Assets/Berserker.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "3bfc403290beb512"
+            "group": "905acb5c0b676813"
           },
           {
-            "id": "780bebe02ffdbb0e",
+            "id": "37c923ce46f07d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/02 Chapter - Your Character.md",
-                "mode": "preview",
+                "file": "Chapter 3/Undertake a Journey.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "33aed543e75c130f"
+            }
           }
         ]
       }
@@ -145,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Improviser.md",
+                "file": "Assets/Berserker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Improviser.md",
+                "file": "Assets/Berserker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Improviser.md"
+                "file": "Assets/Berserker.md"
               }
             }
           }
@@ -203,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assets/Improviser.md",
+                "file": "Assets/Berserker.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,69 +234,49 @@
     "type": "floating",
     "children": [
       {
-        "id": "a7b1c8b8b4aef2fd",
+        "id": "5b028fc1bf50c986",
         "type": "window",
         "children": [
           {
-            "id": "019c855c903d2ef3",
+            "id": "0dc2877338f09f0f",
             "type": "tabs",
             "children": [
               {
-                "id": "af7a2ab0df65dc9d",
+                "id": "de2058c0e130683e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chapter 1/The Action Roll.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "06c4f6a40650f407"
-              }
-            ]
-          },
-          {
-            "id": "5332d36a41ffa8e5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "87799171a61b5f04",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapter 1/The Action Roll.md",
+                    "file": "Chapter 3/Endure Harm.md",
                     "mode": "preview",
                     "source": true
                   }
-                },
-                "group": "06c4f6a40650f407"
+                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 592,
-        "y": 21,
-        "width": 600,
-        "height": 600,
+        "x": 1187,
+        "y": 15,
+        "width": 638,
+        "height": 992,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "210930af57a4faa3",
+  "active": "31f4baa2b1be1446",
   "lastOpenFiles": [
-    "Chapter 4/04 Chapter - Your World.md",
-    "Assets/Rider.md",
-    "Chapter 7/Extended Example of Play.md",
-    "Chapter 1/Bonds.md",
-    "Chapter 2/Equipment.md",
-    "Chapter 1/Progress Tracks.md",
-    "Chapter 7/Principles.md",
-    "Chapter 2/02 Chapter - Your Character.md",
-    "Chapter 6/06 Chapter - Oracles.md",
-    "Test YourBond.md"
+    "Chapter 1/Match.md",
+    "Play Kit/Adventure Moves Summary.md",
+    "Chapter 1/Miss.md",
+    "Chapter 3/Undertake a Journey.md",
+    "Chapter 3/Make Camp.md",
+    "Chapter 3/Resupply.md",
+    "Chapter 3/Endure Harm.md",
+    "Chapter 3/Heal.md",
+    "Chapter 5/Componants of an NPC.md",
+    "Chapter 3/Pay the Price.md"
   ]
 }

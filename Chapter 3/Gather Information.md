@@ -1,11 +1,14 @@
 # Gather Information
-> [!tldr]+ Gather Information
+> [!tldr] Gather Information
 > When you search an area, ask questions, conduct an investigation, or follow a track, roll +wits. If you act within a community or ask questions of a person with whom you share a bond, add +1.
-> On a **Strong Hit**, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn ([[Ask the Oracle]] if unsure), and take +2 momentum.
 > 
->On a **Weak Hit**, the information complicates your quest or introduces a new danger. Envision what you discover ([[Ask the Oracle]] if unsure), and take +1 momentum.
+> **STRONG HIT**: You discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure), and take +2 momentum.
+> 
+>**WEAK HIT**: The information complicates your quest or introduces a new danger. Envision what you discover ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure), and take +1 momentum.
 >
->On a **Miss**, your investigation unearths a dire threat or reveals an unwelcome trught that undermines your quest. [[Pay the price]]
+>**MISS**: Your investigation unearths a dire threat or reveals an unwelcome trught that undermines your quest. [[Pay the price#^roll|Pay the price]]
+
+^gatherinfo
 
 Use this move when you’re not sure of your next steps, when the trail has gone cold, when you make a careful search, or when you do fact-finding.
 

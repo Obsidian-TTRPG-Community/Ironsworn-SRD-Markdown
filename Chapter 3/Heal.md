@@ -1,12 +1,14 @@
 # Heal
-> [!tldr]+ Heal
+> [!tldr] Heal
 > When you treat an injury or ailment, roll +wits. If you are mending your own wounds, roll +wits or +iron, whichever is lower.
 > 
-> On a **Strong Hit**, you care is helpful. If you (or the ally under your care) have the wounded condition, you may clear it. Then take or give up to +2 health.
+> **STRONG HIT**: You care is helpful. If you (or the ally under your care) have the wounded condition, you may clear it. Then take or give up to +2 health.
 > 
-> On a **Weak Hit**, as above, but you must suffer -1 supply or -1 momentum of your choice.
+> **WEAK HIT**: As above, but you must suffer -1 supply or -1 momentum of your choice.
 > 
-> On a **Miss**, your aid is ineffective. Pay the Price.
+> **MISS**: Your aid is ineffective. [[Pay the Price#^roll|Pay the price]].
+
+^heal
 
 When you tend to physical damage or sickness—for yourself, an ally, or an NPC—make this move. Healing might be represented by staunching bleeding, binding wounds, applying salves, or using herbs to brew a tonic. In the Ironlands, healing is not overtly magical, but some folk know how to treat even the most dire of injuries and illnesses.
 

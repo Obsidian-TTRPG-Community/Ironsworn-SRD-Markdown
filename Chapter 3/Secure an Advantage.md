@@ -7,13 +7,15 @@
 > - With deception, stealth, or trickery: Roll +shadow.
 > - With expertise, insight, or observation: Roll +wits.
 > 
-> On a **Strong Hit**, you gain advantage. Choose one.
+> **STRONG HIT**: you gain advantage. Choose one.
 > - Take control: Maker another move now (not a progress move); when you do, add +1.
 > - Prepare to act: Take +2 momentum.
 >
->On a **Weak Hit**, your advantage is short-lived. Take +1 momentum.
+>**WEAK HIT**: your advantage is short-lived. Take +1 momentum.
 >
->On a **Miss**, you fail or your assumptions betray you. Pay the Price.
+>**MISS**: you fail or your assumptions betray you. [[Pay the Price]].
+
+^secureanadvantage
 
 The structure of Secure an Advantage is similar to Face Danger. You envision your action and roll + your most relevant stat. This move, however, is proactive rather than reactive. You’re evaluating the situation or strengthening your position.
 

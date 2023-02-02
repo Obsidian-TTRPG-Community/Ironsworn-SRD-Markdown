@@ -1,6 +1,6 @@
 # The Action Roll
 When you make a move representing a risky or uncertain action, you roll three dice at once.
-> [!error] Your dice
+> [!error] Your Dice
 > - Challenge dice: Two ten-sided dice (D10)
 > - Action die: A six-sided die (D6)
 
@@ -10,10 +10,10 @@ Add your relevant stat to your action die. The move will tell you which stat to 
 
 To determine the outcome of your move, compare the action score to each of the challenge dice. You want it to be greater than the individual value of those dice.
 
-> [!example] There are three possible results for a move:
-> - **Strong Hit:** Your action score is greater than both the challenge dice. You succeed at what you are trying to do.
-> - **Weak Hit.** Your action score is greater than only one of the challenge dice. You probably succeeded, but with a lesser effect or cost.
-> - **Miss.** Your action score isn’t greater than either of the challenge dice. You failed, or need to make some serious concessions.
+> [!tldr] There are three possible results for a move:
+> - ![[Strong Hit]]
+> - ![[Weak Hit]]
+> - ![[Miss]]
 
 ^results
 

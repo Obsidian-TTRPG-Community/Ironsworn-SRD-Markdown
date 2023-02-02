@@ -1,11 +1,13 @@
 > [!tldr]+ Resupply
 > When you hunt, forage, or scavenge, roll +wits.
 > 
-> On a **Strong Hit**, you bolster your resources. Take +2 supply.
+> **STRONG HIT**: You bolster your resources. Take +2 supply.
 > 
-> On a **Weak Hit**, take up to +2 supply, but suffer -1 momentum for each.
+> **Weak Hit**: Take up to +2 supply, but suffer -1 momentum for each.
 > 
-> On a **Miss**, you find nothing helpful. [[Pay the Price]]
+> **MISS**: You find nothing helpful. [[Pay the Price#^roll|Pay the price]]
+
+^tldr
 
 When you’re in the field and need to bolster your supply track, make this move. Fictionally, this represents hunting and gathering. You might also search an area where supplies might be found, such as an abandoned camp or field of battle.
 

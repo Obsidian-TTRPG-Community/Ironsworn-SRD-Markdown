@@ -12,15 +12,22 @@
 >On a weak hit, you press on.
 >
 >On a miss, also suffer -1 momentum. If you are at 0 health, you must mark wounded or maimed (if currently unmarked) or roll on the following table.
+>
 
-| dice: 1d% | Result                                                                                                                                                                                                                       |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+>[!error] Roll Your Dice
+>Roll 1d100
+>`dice: [[Endure Harm#^roll]]`
+^dice
+
+| dice: 1d% | Result|
+| --------- | ------------------------------------------------------------------------------------- |
 | 1-10      | The harm is mortal. Face Death.                                                                                                                                                                                              |
 | 11-20     | You are dying. You need to Heal within an hour or two, or Face Death                                                                                                                                                         |
 | 21-35     | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to a foe not inclined to show mercy, Face Death                                                  |
 | 36-50     | You are reeling and fighting to stay conscious. If you engage in any vigorous activity (such as running or fighting) before taking a breather for a few minutes, roll on this table again (before resolving the other move). |
 | 51-100    | You are battered but still standing.                                                                                                                                                                                                                             |
-^endureharm
+
+^roll
 
 If you fail to defend against an attack, suffer an injury, are stricken with disease or sickness, or bear the brunt of an arduous action, make this move.
 

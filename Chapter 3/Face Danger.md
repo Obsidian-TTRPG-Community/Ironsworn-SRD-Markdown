@@ -1,21 +1,23 @@
 # Face Danger
-> [!tldr]+ Face Danger
-> When you attempt something risky or react to an imminent threat, envision your action and roll. if you act...
+> [!tldr] Face Danger
+> When **you attempt something risky or react to an imminent threat**, envision your action and roll. if you act...
 > - With speed, agility, or precision: roll +edge.
-> - With charm, loyalty or courage: roll +heart.
+> - With charm, loyalty, or courage: roll +heart.
 > - With aggressive action, forceful defense, strength, or endurance: Roll +iron.
 > - With deception, stealth, or trickery: Roll +shadow.
 > - With expertise, insight, or observation: Roll +wits.
 > 
-> On a **Strong Hit**, you are successful. Take +1 Momentum.
+> **STRONG HIT**: You are successful. Take +1 Momentum.
 > 
-> On a **Weak Hit**, you succeed, but face a troublesome cost. Choose one.
+> **WEAK HIT**, you succeed, but face a troublesome cost. Choose one.
 > - You are delayed, lose advantage, or face a new danger: Suffer -1 momentum.
-> - You are tired or hurt: Endure Harm (1 harm).
-> - You are dispirited or afraid: Endure Stress (1 stress).
+> - You are tired or hurt: [[Endure Harm]] (1 harm).
+> - You are dispirited or afraid: [[Endure Stress]] (1 stress).
 > - You sacrifice resource: Suffer -1 supply.
 > 
-> On a **Miss**, you fail, or your progress is undermined by a dramatic and costly turn of events. Pay the Price.
+> **MISS**: you fail, or your progress is undermined by a dramatic and costly turn of events. [[Pay the Price]].
+
+^facedanger
 
 The Face Danger move is a catch-all for risky, dramatic, or complex actions not covered by another move. If you’re trying to overcome an obstacle or resist a threat, make this move to see what happens. You select which stat to roll based on how you address the challenge.
 

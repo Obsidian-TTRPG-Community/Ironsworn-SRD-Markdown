@@ -4,8 +4,8 @@ When **you seek to resolve questions, discover details in the word, determine ho
 > [!tldr] You may...
 > - Draw a conclusion: decide the answer based on the most interesting and obvious result.
 > - Ask a yes/no question: Decide the odds of a 'yes', and roll on the table below to check the answer.
-> - [[Ask the Oracle#^9866d4|Pick two]]: Envision two options. Rate one as 'likely', and roll on the table below to see if it is true. If not, it is the other.
-> - [[Ask the Oracle#^8b4de1|Spark an Idea]]: Brainstorm or use a random prompt.
+> - [[Ask the Oracle#^pick2|Pick two]]: Envision two options. Rate one as 'likely', and roll on the table below to see if it is true. If not, it is the other.
+> - [[Ask the Oracle#^spark|Spark an Idea]]: Brainstorm or use a random prompt.
 
 >[!error] Ask the Oracle:  `dice: 1d100`
 > 
@@ -38,7 +38,7 @@ Decide the likeliness of a 'yes' answer, and roll your oracle dice to get the re
 
 #### Pick Two
 
-^9866d4
+^pick2
 
 The next option is to ask a question and pick two viable results.
 > [!example]- Pick Two
@@ -52,7 +52,7 @@ You rate one of those as 'likely', and roll on the table. If it's a 'yes', the a
 
 #### Spark an Idea
 
-^8b4de1
+^spark
 
 The final option is to seek inspiration through an open-ended question.
 >[!example]- Spark an Idea
