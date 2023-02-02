@@ -1,13 +1,16 @@
 # Initiative
 Initiative is a special mechanic in combat. It reflects who is in control. When you have initiative, you make proactive moves and have more options. When your foe has initiative against you, they are forcing you to react. Initiative shifts between you and your foes depending on the result of your moves. Some moves are inherently proactive or offensive and can only be made when you have initiative. Others are reactive or defensive and are made when your foe has initiative.
 
-Combat moves (page 78) usually specify when you make the move (with or without initiative) and whether you take or lose initiative as part of the outcome. However, you will make moves which aren’t specifically combat moves to take action or avoid dangers in a fight. 
+[[Combat Moves]] usually specify when you make the move (with or without initiative) and whether you take or lose initiative as part of the outcome. However, you will make moves which aren’t specifically combat moves to take action or avoid dangers in a fight. 
 
 >[!tldr] To determine whether you have initiative, follow these guidelines (unless a move tells you otherwise):
 >- When you score a strong hit, you take or retain initiative.
 >- When you score a weak hit or miss, you lose initiative.
 
-The ability to take initiative on a strong hit applies even to suffer moves (page 90). For example, if you score a miss when you Clash and your foe inflicts harm, you can still take back initiative with a strong hit on Endure Harm. This is your character shrugging off the hit and roaring back into the fight. To learn more about other moves in combat, see page 85.
+The ability to take initiative on a strong hit applies even to [[Suffer Moves]]. 
+
+>[!example]-
+>If you score a miss when you Clash and your foe inflicts harm, you can still take back initiative with a strong hit on Endure Harm. This is your character shrugging off the hit and roaring back into the fight. See [[Other Moves in Combat]] for more.
 
 NPCs do not make moves. When an NPC has initiative, they take actions in the fiction of the scene which force you to react. When you have initiative, you are in control and taking proactive actions to achieve your objectives.
 
@@ -19,7 +22,7 @@ Keep in mind that initiative doesn’t represent who goes next. Talk out what ha
 > [!Example]- Example: Initiative in Action
 > Ash and Tayla are playing Ironsworn in co-op mode without a GM. They are helping defend a village against a raider attack. They come across two raiders in the longhouse. 
 > 
-> Both of them make the Enter the Fray move (page 78). This is the move that triggers combat. Per the description of this move, the situation and their intent determines what stat to use for the roll. The raiders aren’t aware of them yet, and Ash wants to use this to their advantage and get a shot or two off with his bow. He’ll roll +shadow. Tayla, meanwhile, is eager to wade into the fight. She rolls with +heart, caution be damned. 
+> Both of them make the [[Enter the Fray]] move. This is the move that triggers combat. Per the description of this move, the situation and their intent determines what stat to use for the roll. The raiders aren’t aware of them yet, and Ash wants to use this to their advantage and get a shot or two off with his bow. He’ll roll +shadow. Tayla, meanwhile, is eager to wade into the fight. She rolls with +heart, caution be damned. 
 > 
 > Ash rolls a strong hit, and gains initiative. Tayla rolls a weak hit. 
 > 

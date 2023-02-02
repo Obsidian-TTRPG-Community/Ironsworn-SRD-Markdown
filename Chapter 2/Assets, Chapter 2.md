@@ -5,22 +5,7 @@ Assets provide both mechanical and narrative benefits. For example, if you are a
 
 Ironsworn assets are formatted as printable cards, available for download at ironswornrpg.com. Put them alongside your character sheet for easy reference. Each asset card includes three abilities.
 
-## Asset Types
-There are four types of assets: Companions, paths, combat talents, and rituals. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
-### Companions
-Companions are your NPC helpers. When you acquire a companion, give them a name and envision their appearance and personality. If they don’t have a starting ability, choose one. Upgrading a companion enables additional abilities.
-
-Companions utilize a health track and may suffer harm as a result of one of your moves. When your companion takes damage, make the [[Companion Endure Harm]] move to determine the outcome. See page 43 to learn more.
-
-### Paths
-Paths represent your background, interests, training, and skills. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. For example, a Ritualist would likely have a different outlook than a Veteran. Choosing both those paths can reflect an evolution of your character or an interesting background.
-
-### ![[Combat Talents]]
-
-### Rituals
-Magic in Ironsworn is cast through rituals which help support your actions or act as unique moves. Like all assets, rituals can be selected as you gain experience and can be upgraded over time to make them more flexible or powerful.
-
-All rituals utilize a move as their default marked ability. You must make this move and the associated action roll to trigger the effect. Any secondary abilities you gain by upgrading the asset are dependent on performing the ritual described as the default ability.
+## ![[Asset Types]]
 
 ## Acquiring Assets
 You may select three assets when you create your character. Additional assets can be acquired with experience points when you [[Advance]]. Some assets can only be obtained after you have fulfilled narrative or
@@ -58,16 +43,7 @@ Narrative circumstances and the outcome of failed moves may force you into situa
 
 For example, if you don’t have a animal pelt, you can’t perform the Bind ritual. If you Undertake a Journey without your Horse companion, you won’t gain the bonus. If you are an Archer who’s run out of arrows, you’ll have to try something else. Before you make a move using an asset, take a moment to ensure you are properly positioned and equipped to use those abilities.
 
-## Using Companion Abilities
-If you have a companion, leveraging their abilities is an option, not a requirement. Through the fiction, you can interact with your companion and have them perform tasks or assist you without using one of the asset abilities. For example, a Horse companion can put you in position to travel at speed or get away from danger.
-
-When you leverage a companion’s ability, you are inherently putting them at risk. If you roll a 1 on your action die when aided by a companion, any negative outcome of the move should involve your companion. Depending on the circumstances, they might suffer harm, be put in danger, become separated from you, or refuse your commands
-
-### Inflicting Harm on Companions
-When a companion suffers physical damage, you make the [[Companion Endure Harm]] move. When their health is at 0, they are in danger of being killed. Some moves, such as [[Sojourn]]  and [[Make Camp]] offer options for your companion to recover health.
-
-### Slain Companions
-If your companion is killed, give yourself 1 experience point for each marked ability. Then, remove the asset. If you acquire the same type of companion through the narrative of your quest and journeys, you can rebuy the asset at the normal cost.
+## ![[Using Companion Abilities]]
 ## Failing an Asset Move
 For the sake of brevity, moves within an asset do not usually describe the result of a miss. If an asset offers a self-contained move, and doesn’t provide a specific consequence for a miss, you can leverage the miss result of the [[Face Danger]] move: “On a miss, you fail, or your progress is undermined by a dramatic and costly turn of events. [[Pay the Price]].” In short, make something negative happen as appropriate to the circumstances.
 ### Failed Rituals

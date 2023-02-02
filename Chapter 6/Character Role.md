@@ -1,7 +1,10 @@
+# Character Role
+>[!error] Roll
+`dice: [[Character Role#^table]]`
 
 | dice: 1d%   | Result     |
 |--------|------------|
-| 1-2    | Criminal   |
+| 1 - 2    | Criminal   |
 | 3-4    | Healer     |
 | 5-6    | Bandit     |
 | 7-9    | Guide      |
@@ -30,6 +33,7 @@
 | 85-89  | Raider     |
 | 90-94  | Trader     |
 | 95-99  | Farmer     |
+
 ^table
 
 

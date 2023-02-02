@@ -12,6 +12,6 @@
 
 Make this move when forced to Face Desolation as a result of a miss on the Endure Stress move. This represents the potential breaking point for your character. Do you push on in spite of all you have seen, all you have done, or do you fall into darkness?
 
-Choosing the option to become tormented (page 38) on a weak hit creates interesting story possibilities. What is your greatest fear? Preventing that dire outcome can steer your story in a compelling new direction.
+Choosing the option to become [[Debilities#^burdens|tormented]] on a weak hit creates interesting story possibilities. What is your greatest fear? Preventing that dire outcome can steer your story in a compelling new direction.
 
 On a miss, you are broken. There is no recovery possible. This is the end of your character’s story.

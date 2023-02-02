@@ -3,4 +3,4 @@ As you explore your world and complete quests, you create bonds with people and 
 
 Bonds also help determine your fate when you retire from your life as an adventurer. The more bonds you create, the more connections you have with people and communities, the better your chance to live out your days peacefully in the company of others.
 
-Your character sheet has a special progress track for bonds. When you successfully Forge a Bond, mark 1 tick on this progress track. When your adventures are complete and you [[Write Your Epilogue]], tally your bonds and make a [[progress roll]] to wrap up your character’s story.
+Your character sheet has a special progress track for bonds. When you successfully Forge a Bond, mark 1 tick on this progress track. When your adventures are complete and you [[Write Your Epilogue]], tally your bonds and make a progress roll to wrap up your character’s story.

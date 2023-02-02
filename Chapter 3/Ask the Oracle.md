@@ -64,7 +64,7 @@ The final option is to seek inspiration through an open-ended question.
 
 If you're in a game with other players, you can talk it out. Brainstorming together will lead you to interesting answers you might not have thought of on your own.
 
-You can also use random generators to help inspire and answer. See [[Ironsworn Chapter 6 - Oracles|Oracle Tables]] for creative prompts and random results. Or use your preferred tolls, such as an online generator for interesting names, or a set of tarot cards, or rune stones for visual inspiration. When asking an open-ended question, use tools which offer a spark of inspiration instead of a definitive response. Your creative mind will lead you naturally from an abstract concept to a relevant answer, adding exciting and surprising dimension to your story.
+You can also use random generators to help inspire and answer. See [[06 Chapter - Oracles|Oracle Tables]] for creative prompts and random results. Or use your preferred tolls, such as an online generator for interesting names, or a set of tarot cards, or rune stones for visual inspiration. When asking an open-ended question, use tools which offer a spark of inspiration instead of a definitive response. Your creative mind will lead you naturally from an abstract concept to a relevant answer, adding exciting and surprising dimension to your story.
 
 #### Questions upon Questions
 You can come back to the yes/no table and ask a follow-up question to clarify or affirm a result. However, you should avoid leaning too heavily on asking questions (or this move in general). Don't let one question snowball into a series of more specific questions. Even when playing solo, oracles should be the spice of your game, not the main course. Ask a question or two, decide what it means, and move on. When in doubt, follow your gut. Your first instinct is probably the right one. Go with it.
@@ -72,7 +72,7 @@ You can come back to the yes/no table and ask a follow-up question to clarify or
 #### Rolling a Match
 A match on your oracle dice when rolling on the yes/no table should trigger an extreme result or narrative twist. This can mean an all-caps "HELL YES!" or "HELL NO!", or yes or no but with an interesting or dramatic complication.
 
-when you are unsure what a match might mean, you can roll on another [[Ironsworn Chapter 6 - Oracles|Oracle Tables]] for inspiration. if you are still left scratching your head, just move on. Resolving a match is not a requirement. It's just a way to introduce narrative turning points that lead you along unexpected paths. Head down the rabbit hole, but don't get stuck in it.
+when you are unsure what a match might mean, you can roll on another [[06 Chapter - Oracles|Oracle Tables]] for inspiration. if you are still left scratching your head, just move on. Resolving a match is not a requirement. It's just a way to introduce narrative turning points that lead you along unexpected paths. Head down the rabbit hole, but don't get stuck in it.
 
 #### Oracles and Guided Play
 In a guided play, your GM is the oracle. You won't make this moveunless you are talking things out and need a random result or a bit of inspiration. Your GM can use this move (or ask you to make it) to help guide the story.

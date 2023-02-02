@@ -1,0 +1,9 @@
+# One-Shot Play
+If you want to run a single, self-contained session of Ironsworn, here’s what to do. This process is a simplification of the campaign setup on page 202.
+>[!note]
+>1. Introduce the world. If you are the GM or are facilitating the session, briefly describe the setting. You can play in the Ironlands (page 111), or introduce your own setting. Don’t worry about the details. You can flesh it out in play.
+2. Create characters. Each player creates their character by setting stats and picking assets. Give your character a name, and consider some basic aspects of their look and personality. You can ignore background vows and bonds. Work together to decide how your characters are connected.
+3. Introduce the inciting incident. If you are the GM or facilitator, you can come prepared with an inciting incident (page 196) and quest outline (page 200). Otherwise, you can work together to envision a story problem (or Ask the Oracle). You might consider introducing the inciting incident as part of character creation to help determine the relationship between the characters.
+4. Set the scene. Decide where your adventure starts, and begin play [[In Media Res]].
+5. Swear an Iron Vow. Give your quest a rank of troublesome (for a session of an hour or two) or dangerous (for a session of three to four hours).
+To give your story a satisfying conclusion, your target for the session is to resolve the quest and see the vow fulfilled or forsaken. Adjust the pace of your milestones and the detail of your scenes as appropriate for the time you have available. Focus on what is interesting, and zoom out or abstract what is unimportant. Use the Battle move to quickly resolve combat with secondary NPCs, saving detailed combat for climactic fights.

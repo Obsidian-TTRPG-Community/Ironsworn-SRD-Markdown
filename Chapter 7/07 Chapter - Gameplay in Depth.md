@@ -41,20 +41,9 @@ If you are the GM, you should facilitate discussion and contribute to the worldb
 ## Set the Scene
 You have two options for starting play: You can begin with the normal world, or in media res.
 
-### The Normal World
-Envision a prologue involving your character which helps to flesh out who you are and how you interact with your world. If you have allies, this is an opportunity to roleplay your relationships and introduce your personality and backgrounds. Your inciting incident can then serve as an event or threat which you encounter in play during your first session.
+### ![[The Normal World]]
 
->[!example]-
->You want to spend a bit of time exploring your character and your world before you kick things off with your overseer’s sudden illness. Your village is celebrating the spring festival, and you are taking part in a boar hunting competition. You roleplay scenes and make moves as you interact with other hunters, track your quarry, and attempt to bring down a particularly large and vicious boar. When you return to the village, you learn that the overseer has fallen ill.
-
-If you are having trouble coming up with your initial quest, you can use the prologue to jump in and discover a dramatic situation through play. Ask questions about the characters, your world, and the current situation. Draw conclusions to those questions or Ask the Oracle. Look for opportunities in the fiction to trigger a vow.
-
-### In Media Res
-In media res is a Latin term meaning “in the middle of things.” You start your story at a crucial point. Your inciting incident is happening now, or is something you are fully aware of and must react to. The raiders are attacking. The usurper claims the iron circlet. The marauding beast appears.
-
-You can begin with a tense, action-oriented scene as you encounter the problem. Or, you might frame a scene where you Swear an Iron Vow, letting the result of that move trigger what happens next.
->[!example]-
->You envision a scene in the longhouse as you visit your stricken overseer. She lies in bed, her features as pale as death, her breathing ragged. There are others here: The village healer, the overseer’s wife, and a rival who feigns concern. Ignoring them, you stride forward. You draw your sword...
+### ![[In Media Res]]
 ## Swear an Iron Vow
 To set your quest in motion, as a response to the inciting incident, [[Quest Moves|make this move]]. But first, start with the fiction. Envision the scene. Describe what you say and how you perform the ceremony. This is an important moment for your character.
 
@@ -79,21 +68,7 @@ Depending on the result of your Swear an Iron Vow move, your character may have 
 >The oracle answers, “Leave” and “Trade.” What does it mean? Your first instinct is to interpret this answer as having something to do with a trade caravan. Perhaps one left your village on the same day the overseer fell ill? There must be a connection.
 >
 >With your immediate goal in sight, you can roleplay your preparations and [[Undertake a Journey]] to set off after the caravan.
-## Creating a Quest Outline
-If you find it helpful, you can envision and write down the main narrative steps in your quest. What journeys must you undertake? Which enemies will oppose you? What information must be found? Who do you need help from?
-
-Your outline should give you ideas for the scenes and challenges which can be part of your quest, with each major step an opportunity to make the [[Reach a Milestone]] move. However, you should consider it a sketchy, unreliable plan at best. It is like an ancient map with “here there be monsters” written in blank spaces.
-
-If you are a GM and have some ideas for challenges and events in the quest, make note of them. However, don’t get locked into a specific path which must be followed. Whether you are a GM or a player, leave yourself open to
-
-surprises, new ideas, input from others at your table, and the whims of fate. Be prepared to toss even the mostly loosely defined plan out the window. Put simply, play to see what happens.
-
->[!example]-
->You consider the steps you’ll take to Fulfill Your Vow. You need to find the caravan, identify the cause of the illness, locate a cure, and return back to Cinderhome to heal the Overseer. You write the milestones down.
->
->In your outline, you include a note about a healer in the Tanglewood forest. You like the idea of a woodland adventure and a mysterious old herbalist who may want something in exchange for a cure. Your story might not lead in that direction, but it gives you an interesting potential narrative checkpoint.
->
->That’s four milestones, which is about right for a dangerous quest (two progress per milestone). But, these may change depending on where the story takes you. At the moment, much is unknown.
+[[Creating a Quest Outline]]
 ## Campaign Setup Summary
 > [!tldr] Campaign Setup Summary
 > 1. [[07 Chapter - Gameplay in Depth|Create your character]]. Envision your character. Choose your name, set your stats, and select your assets. Refer to [[02 Chapter - Your Character|chapter 2]] for details. If you prefer, you can start by creating your world (below).
@@ -122,15 +97,7 @@ For combat scenes with three or more player characters, consider a couple of fac
 More players tend to add more rolls to your session. This creates more matches, which can be challenging to interpret or start to feel routine. If you want to make matches feel more unusual and special, use this option:
 
 Resolve the impact of a match only when your challenge dice come up as an even number (2, 4, 6, 8, or 10).
-## One-Shot Play
-If you want to run a single, self-contained session of Ironsworn, here’s what to do. This process is a simplification of the campaign setup on page 202.
->[!note]
->1. Introduce the world. If you are the GM or are facilitating the session, briefly describe the setting. You can play in the Ironlands (page 111), or introduce your own setting. Don’t worry about the details. You can flesh it out in play.
-2. Create characters. Each player creates their character by setting stats and picking assets. Give your character a name, and consider some basic aspects of their look and personality. You can ignore background vows and bonds. Work together to decide how your characters are connected.
-3. Introduce the inciting incident. If you are the GM or facilitator, you can come prepared with an inciting incident (page 196) and quest outline (page 200). Otherwise, you can work together to envision a story problem (or Ask the Oracle). You might consider introducing the inciting incident as part of character creation to help determine the relationship between the characters.
-4. Set the scene. Decide where your adventure starts, and begin play in media res (page 198).
-5. Swear an Iron Vow. Give your quest a rank of troublesome (for a session of an hour or two) or dangerous (for a session of three to four hours).
-To give your story a satisfying conclusion, your target for the session is to resolve the quest and see the vow fulfilled or forsaken. Adjust the pace of your milestones and the detail of your scenes as appropriate for the time you have available. Focus on what is interesting, and zoom out or abstract what is unimportant. Use the Battle move to quickly resolve combat with secondary NPCs, saving detailed combat for climactic fights.
+## [[One-Shot Play]]
 ## Opposing an Ally
 An ally is a character controlled by another player. Ironsworn moves are not intended to provoke or reinforce conflict between allies. Instead, the focus is on the drama and challenges of perilous quests in a harsh world. You and your allies will stand together against the forces which would see your vows unfulfilled. You are working towards shared (or at least complementary) goals.
 
@@ -142,7 +109,7 @@ If things get heated or uncomfortable, take a break. Discuss your approaches out
 ### Conflict Using Moves
 If you are taking an action in opposition to an ally and want to resolve this conflict through a move, you can use this process:
 
-- You both describe what you are doing to act against or resist your ally, and Face Danger (page 60) using an appropriate stat.
+- You both describe what you are doing to act against or resist your ally, and [[Face Danger]] using an appropriate stat.
 - If at least one of you scores a hit, determine who gains control of the outcome by comparing your level of success (strong hit > weak hit > miss). If you both have the same level of success, use your action score (you action die + stat + any adds) as a tie-breaker. If you are still tied, envision how your actions lead to a complete stalemate.
 - Whoever gains control of the outcome decides which of the two moves should be resolved. The result of the other move is ignored.
 - If neither of you scored a hit, resolve the miss for both moves. Each of you must Pay the Price.
@@ -177,7 +144,7 @@ A scene challenge is an optional approach you can use to resolve an extended cha
 ### Setting Up Your Scene Challenge
 First, envision your goal for the scene and decide the rank of your challenge using the standard rank system: Troublesome, dangerous, formidable, extreme, or epic. A typical challenge is dangerous. Make it formidable if you are at a disadvantage, or troublesome if you have clear advantage. An extreme challenge is very tough to overcome, and an epic challenge is nearly hopeless.
 
-Next, create a standard progress track with 10 boxes. When you mark progress, you fill in a standard number of boxes or ticks based on the rank of your challenge (page 14).
+Next, create a standard progress track with 10 boxes. When you mark progress, you fill in a standard number of boxes or ticks based on the rank of your [[Progress Tracks#^markingprogress|challenge]].
 
 Then, create a separate track with only 4 boxes. This is your countdown track. When you mark the countdown track, you completely fill in a single box.
 
@@ -227,8 +194,8 @@ To give fate a heavier hand in your character and starting situation, do the fol
 2. Gather the asset cards and organize them into decks by type (companion, path, combat talent, and ritual). Exclude any cards that don’t fit your vision for the setting (such as rituals if you aren’t including magic). Shuffle the individual decks and put them face down.
 3. Choose a card from any deck. Don’t look at it. Pass the draw to the next player. Continue taking turns drawing a single asset from any deck until you have five in your hand.
 4. Reveal your cards and choose two of them to discard. The remaining three cards are your character’s assets.
-5. Ask the Oracle: “What is my background vow?” Then, spark an idea using the Character Goal oracle (page 182). Interpret the result, or roll on additional oracle tables to clarify as you like. Mark your background vow and give it a rank of extreme or epic.
-6. Ask the Oracle: “Who do I share a bond with?” Then, roll once on the Character Role oracle (page 182) and twice on the Character Descriptor oracle (page 183). Envision this NPC, give them a name, and mark a bond. You may do this for your two remaining starting bonds, or come up with other bonds from scratch.
-7. Together with the other players, Ask the Oracle: “What is our inciting incident?” Then, roll on the Settlement Trouble oracle (page 181). Interpret this answer to define your starting situation.
+5. Ask the Oracle: “What is my background vow?” Then, spark an idea using the [[Character Goal]] oracle. Interpret the result, or roll on additional oracle tables to clarify as you like. Mark your background vow and give it a rank of extreme or epic.
+6. Ask the Oracle: “Who do I share a bond with?” Then, roll once on the [[Character Role]] oracle and twice on the [[Character Descriptor]] oracle. Envision this NPC, give them a name, and mark a bond. You may do this for your two remaining starting bonds, or come up with other bonds from scratch.
+7. Together with the other players, Ask the Oracle: “What is our inciting incident?” Then, roll on the [[Settlement Trouble]] oracle. Interpret this answer to define your starting situation.
 # ![[Hacking Ironsworn]]
 [[Extended Example of Play]]

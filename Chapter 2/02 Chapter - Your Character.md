@@ -5,7 +5,7 @@
 # ![[Debilities]]
 # ![[Assets, Chapter 2]]
 # ![[Experience]]
+# ![[Chapter 2/Equipment]]
 # ![[Chapter 1/Equipment]]
 # ![[Becoming Ironsworn]]
-
 # ![[Character Creation Summary]]

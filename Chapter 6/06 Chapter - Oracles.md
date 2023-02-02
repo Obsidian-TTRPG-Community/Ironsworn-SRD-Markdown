@@ -36,7 +36,7 @@ You can also use oracles as a prompt for sharing control of the narrative with y
 >- If the answer is difficult to interpret for your situation, you can check up or down one row from your original answer, or reverse the digits (37=73).
 >- If you’ve got your answer, you’re all set! Play to see what happens. If you want further detail, you can talk it out with other players or roll on another oracle table.
 >- If you’re having trouble, you can roll again, try a different table, or just fall back to your instincts and decide what happens next.
-^fb2629
+^howtousethetables
 
 ### When Answers Lead to More Questions
 You aren’t limited to a single roll on a single oracle table when asking a question. If you like, you can let the result from one table inform your interpretation of the result on another. You can even refer back to the [[Ask the Oracle]] table to clarify an answer with a yes/no question.
@@ -99,7 +99,7 @@ Use this table to generate a narrative hook for a problem faced by a community. 
 Use this oracle to define the background for a character, or to generate a random encounter.
 ### [[Character Goal]]
 Use this oracle to define the primary motivation of an NPC or a faction. It can also be used to kick-off a personal quest for your own character.
-### [[Character Description]]
+### [[Character Descriptor]]
 Use this oracle to help flesh out a character’s personality or physical characteristics. Roll more than once to add additional detail. You can combine all three character oracles (10, 11 and 12), plus a roll on an appropriate name table, to build an outline of an NPC.
 ### [[Ironlander Male Names]] / [[Ironlander Female Names]]
 Use this oracle to quickly generate a name for an Ironlander character. Roll on either table. Surnames are not used in the Ironlands and names are often gender-neutral. If a name doesn’t fit a character, or you don’t like the sound of it, look up or down a row for your answer, or reverse the digits.

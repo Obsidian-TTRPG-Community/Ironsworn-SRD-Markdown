@@ -33,7 +33,7 @@ Your Sojourn should require several hours or several days, depending on your cur
 
 On a hit, this move also includes an option to roll again for one of your selected recover actions. The second roll either provides a bonus to that activity (on a hit), or causes you to lose all benefits for your recovery. For example, if you are suffering from low spirit, you might choose to focus on the consort action, representing time in the mead hall or intimacy with a lover. Roll +heart again, and take the bonus if you score a hit.
 
-You should envision what makes this community and its people unique. Give every community at least one memorable characteristic. If you need inspiration, Ask the Oracle. You will find creative prompts, along with generators for community names and troubles in chapter 6 (page 165).
+You should envision what makes this community and its people unique. Give every community at least one memorable characteristic. If you need inspiration, Ask the Oracle. You will find creative prompts, along with generators for community names and troubles in [[06 Chapter - Oracles|chapter 6]].
 
 Narratively, you can imagine much of the time in this community passing as a montage. If you choose to focus on a recovery action, zoom into that scene and envision what happens. You might be in the healer’s house, at the market, dancing at a festival, or speaking with the clan leader and making plans. Envision how this scene begins, make your roll, and then narrate the conclusion of the scene—good or bad—based on the result of your focus roll.
 

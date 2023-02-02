@@ -12,7 +12,7 @@
 >
 >If your companion’s health is 0, they are gravely wounded and out of action. Without aid, they die in an hour or two.If you roll a miss with a 1 on your action die, and your companion’s health is 0, they are now dead. Take 1 experience for each marked ability on your companion asset, and remove it.
 
-A companion (page 39) is an NPC asset which complements your abilities and can help support your actions. When you leverage a companion on a move, you are inherently putting them at risk. If you roll a 1 on your action die when using a companion ability, you should make the companion the focus of any negative outcome for that move. Depending on the fiction of the current situation, this might include harm.
+A [[Asset Types|companion]] is an NPC asset which complements your abilities and can help support your actions. When you leverage a companion on a move, you are inherently putting them at risk. If you roll a 1 on your action die when using a companion ability, you should make the companion the focus of any negative outcome for that move. Depending on the fiction of the current situation, this might include harm.
 
 Inflicting harm on your companion might also happen as a reasonable outcome of any move, or through a roll on the Pay the Price table.
 

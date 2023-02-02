@@ -106,7 +106,7 @@ In guided mode, your GM represents the whims of fate. They can reference these m
 >[!tldr] There are three key aspects of using the fate moves:
 >- Instinct: If an answer to a question or the result of a situation is obvious, interesting and dramatic, make it happen.
 >- Randomness: You can roll on random tables to generate a result or answer a question.
->- Inspiration: You can use creative prompts, such as those included in the [[Ironsworn Chapter 6 - Oracles|oracles chapter]] to guide your story.
+>- Inspiration: You can use creative prompts, such as those included in the [[06 Chapter - Oracles|oracles chapter]] to guide your story.
 
 ^fatemoves
 ## ![[Pay the Price]]

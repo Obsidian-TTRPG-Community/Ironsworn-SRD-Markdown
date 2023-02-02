@@ -9,7 +9,7 @@ She ignores the nervous chatter of the refugees behind her. These are dangerous 
 
 She gives Etana an encouraging click of the tongue, and picks up her pace.
 
-I make the Undertake a [[Journey]] move for this segment of travel. Leveraging my companion’s Swift ability gives me a +1 add.
+I make the [[Undertake a Journey]] move for this segment of travel. Leveraging my companion’s Swift ability gives me a +1 add.
 
 That’s a miss. The outcome for Undertake a Journey tells me: “you are waylaid by a perilous event.” I don’t have anything in mind, so let’s see what the oracles have to say. I roll on the Action/Theme tables.
 
@@ -63,7 +63,7 @@ I have also rolled a match on the challenge dice, which indicates something unex
 
 The answer is, “It is stressful.”
 
-No surprise there. Facing off against a wyvern is stressful. I want more to go on. I’ll roll on the Combat Action oracle (page 188) to see what the wyvern does as part of this outcome.
+No surprise there. Facing off against a wyvern is stressful. I want more to go on. I’ll roll on the [[Combat Action]] oracle to see what the wyvern does as part of this outcome.
 
 The oracle responds, “Shift focus to someone or something else.”
 
@@ -86,7 +86,7 @@ That’s a strong hit, which means I can take back initiative. I choose the Endu
 
 She also wants to stop the wyvern from getting at the girl and her brave mother, so I’ll leverage my initiative to Secure an Advantage with another charge.
 
-The weak hit is bad enough, but I’ve also rolled a 1 on the action die while leveraging one of my companion’s abilities. That means I need to involve my horse in the move’s outcome (page 43).
+The weak hit is bad enough, but I’ve also rolled a 1 on the action die while leveraging one of my companion’s abilities. That means I need to involve my horse in the move’s outcome.
 
 The good news is I’ve gained another bit of momentum (up to +7). I envision what happens next.
 
@@ -100,7 +100,7 @@ A strong hit, which means I’ve overcome the danger, take +1 momentum (now +8),
 
 	The wyvern’s tail lashes along the ground like a scythe. Kuno pulls up hard on the reins, and Etana jumps over the tail as quick and graceful as a cat.
 
-I envision Kuno raising her sword and readying an attack. This seems like the right time to Strike (page 79).
+I envision Kuno raising her sword and readying an attack. This seems like the right time to [[Strike]].
 
 The strong hit with Strike allows me to inflict +1 harm. I mark 3 harm on the wyvern’s progress track. For a formidable foe, that’s 3 progress.
 
@@ -112,7 +112,7 @@ I roll to Strike again, hoping to build on my success and add more progress agai
 
 That’s a miss. I could burn my +8 momentum to cancel one challenge die and shift the result to a weak hit, but I’d prefer to save it for a more dramatic opportunity.
 
-Now I must Pay the Price (page 105). Suffering direct harm for me or my horse is an obvious choice, but I’m interested in leaving it to fate. I roll on the Pay the Price table to see what happens.
+Now I must [[Pay the Price]]. Suffering direct harm for me or my horse is an obvious choice, but I’m interested in leaving it to fate. I roll on the Pay the Price table to see what happens.
 
 The answer is, “You are separated from something or someone.” I interpret this as an attack which separates me from Etana.
 
@@ -120,13 +120,13 @@ The answer is, “You are separated from something or someone.” I interpret th
 
 It seems reasonable to also apply harm to this outcome. I’ll split the wyvern’s 3 harm between myself and my horse—2 for me, 1 for Etana. This requires suffer moves for both of us.
 
-First, I make the Endure Harm move (page 91), subtracting 2 from my health track. Per the move, I “roll +health or +iron, whichever is higher.” My health track is at +2, and my iron is 2, so it’s a wash.
+First, I make the [[Endure Harm]] move, subtracting 2 from my health track. Per the move, I “roll +health or +iron, whichever is higher.” My health track is at +2, and my iron is 2, so it’s a wash.
 
 That’s a weak hit. Kuno suffers her harm and presses on.
 
 	Kuno stands. Pain flares through her ribs. She pushes the pain aside, concerned only with her horse.
 
-Now to check on how Etana has fared. I make the Companion Endure Harm move (page 94). First, I lower her health track by 1. Then, per the move, I “roll +heart or +your companion’s health, whichever is higher.” Etana’s health track is at +3 and my heart is 2, so we’ll roll + her health.
+Now to check on how Etana has fared. I make the [[Companion Endure Harm]] move. First, I lower her health track by 1. Then, per the move, I “roll +heart or +your companion’s health, whichever is higher.” Etana’s health track is at +3 and my heart is 2, so we’ll roll + her health.
 
 Another weak hit. Etana is still in the fight, but Kuno wants her out of harm’s way. I’ll handle that in the fiction.
 
@@ -144,13 +144,13 @@ That’s a strong hit and another +1 momentum (+9 total).
 
 	Kuno waits for the beast, then leaps aside at the last moment. The wyvern’s teeth clamp down on the space she stood only a moment before. Its great head spins around, powerful jaws opening for another bite...
 
-A miss. With my +9 momentum, this is a perfect opportunity to burn momentum (page 12). I do so, and cancel both challenge dice, elevating the outcome to a strong hit.
+A miss. With my +9 momentum, this is a perfect opportunity to [[Burning Momentum|burn momentum]]. I do so, and cancel both challenge dice, elevating the outcome to a strong hit.
 
 I’ll also leverage my Swordmaster ability, which lets me inflict +2 harm when burning momentum on a Strike or Clash. That’s an impressive amount of harm on this attack.: +2 for the sword, +1 for the strong hit, and +2 for Swordmaster, giving me 5 harm total. This takes the wyvern to 8 filled progress.
 
 	Kuno springs forward, stabbing with all her might through the roof of the beast’s mouth. The sword bites deep into the soft flesh. Warm blood spills over her arms.
 
-This feels like the proper resolution of this battle. Time to End the Fight (page 82). I tally my progress (8), roll the challenge dice, and compare.
+This feels like the proper resolution of this battle. Time to [[End the Fight]]. I tally my progress (8), roll the challenge dice, and compare.
 
 It’s a strong hit. This battle is done.
 
@@ -175,7 +175,7 @@ The defeat of the wyvern, while notable, isn’t relevant to my current quest an
 
 	“We mean you no harm,” Kuno says, “but these are dangerous lands. Where is your home?”
 
-I don’t have the answer to that question, so it’s an opportunity to Ask the Oracle. This time, I decide to leverage the Settlement Trouble oracle (page 181). It’s primarily intended for introducing a problem within a community, but works here as a way of establishing what has driven this woman and her child so far into the wilds.
+I don’t have the answer to that question, so it’s an opportunity to Ask the Oracle. This time, I decide to leverage the [[Settlement Trouble]] oracle . It’s primarily intended for introducing a problem within a community, but works here as a way of establishing what has driven this woman and her child so far into the wilds.
 
 I roll, and the oracle tells me, “Roll twice.” I do so, and am told, “Someone is captured” and “Dangerous tradition.”
 

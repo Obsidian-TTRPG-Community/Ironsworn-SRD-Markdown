@@ -14,7 +14,7 @@ Bonds connect you to the people of the Ironlands. They provide a story benefit b
 
 Bonds can be created through narrative circumstances or through sworn vows. If you’ve established a strong relationship with a person or community, you may Forge a Bond to give it significance. If you make this move after you successfully Fulfill Your Vow in service to them, you have proven yourself worthy and may reroll any dice.
 
-When you Forge a Bond and score a strong hit, mark a tick on your bond progress track (page 36) and make note of your bond.
+When you Forge a Bond and score a strong hit, mark a tick on your [[Chapter 2/Bonds|bond progress track]] and make note of your bond.
 
 On a weak hit, they ask more of you. It might be a task, an item, a concession, or even a vow. Envision what they need, or Ask the Oracle. If you do it, or Swear an Iron Vow, you can mark the bond.
 

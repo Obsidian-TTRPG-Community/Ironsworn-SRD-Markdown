@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md",
+                "file": "Chapter 1/Progress Tracks.md",
                 "mode": "source",
                 "source": true
               }
@@ -21,50 +21,32 @@
             "group": "3bfc403290beb512"
           },
           {
-            "id": "81fe83253a12c31e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "137a7574984d7173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work in Progress/README.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e56c2be147e8cee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/Combat Moves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "210930af57a4faa3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Improviser.md",
+                "mode": "source",
+                "source": true
+              }
             }
+          },
+          {
+            "id": "fa273dd99b8657ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/02 Chapter - Your Character.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "33aed543e75c130f"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4880e6afee022987",
@@ -76,12 +58,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md",
+                "file": "Chapter 1/Progress Tracks.md",
                 "mode": "preview",
                 "source": true
               }
             },
             "group": "3bfc403290beb512"
+          },
+          {
+            "id": "780bebe02ffdbb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/02 Chapter - Your Character.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "33aed543e75c130f"
           }
         ]
       }
@@ -150,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md",
+                "file": "Assets/Improviser.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md",
+                "file": "Assets/Improviser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md"
+                "file": "Assets/Improviser.md"
               }
             }
           }
@@ -208,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md",
+                "file": "Assets/Improviser.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -318,17 +313,17 @@
       }
     ]
   },
-  "active": "1fc527cc44d6fa4b",
+  "active": "210930af57a4faa3",
   "lastOpenFiles": [
-    "Work in Progress/README.md",
-    "README.md",
-    "Chapter 3/Undertake a Journey.md",
-    "Chapter 1/The Action Roll.md",
-    "Chapter 1/Match.md",
-    "Chapter 3/Combat Moves.md",
-    "Chapter 3/Playing Ironsworn.md",
-    "Chapter 1/What's Next.md",
-    "Chapter 1/01 Chapter - The Basics.md",
-    "Chapter 2/02 Chapter - Your Character.md"
+    "Chapter 4/04 Chapter - Your World.md",
+    "Assets/Rider.md",
+    "Chapter 7/Extended Example of Play.md",
+    "Chapter 1/Bonds.md",
+    "Chapter 2/Equipment.md",
+    "Chapter 1/Progress Tracks.md",
+    "Chapter 7/Principles.md",
+    "Chapter 2/02 Chapter - Your Character.md",
+    "Chapter 6/06 Chapter - Oracles.md",
+    "Test YourBond.md"
   ]
 }

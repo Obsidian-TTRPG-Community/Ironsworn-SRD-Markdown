@@ -16,7 +16,7 @@
 > 	- Trample
 > ^npcgaunt
 
-A gaunt is a creature unique to the Ironlands. They maneuver across the rough, dense terrain of the Deep Wilds and Hinterlands with uncanny speed and grace. This makes them ideal as mounts for the elves (page 142), who breed and train them.
+A gaunt is a creature unique to the Ironlands. They maneuver across the rough, dense terrain of the Deep Wilds and Hinterlands with uncanny speed and grace. This makes them ideal as mounts for the [[Firstborn|elves]], who breed and train them.
 
 A gaunt will not usually act aggressively without provocation, but they are as deadly as the fiercest warhorse under the command of a talented rider.
 

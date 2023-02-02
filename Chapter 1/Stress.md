@@ -1,5 +1,5 @@
 # Stress
-Stress represents mental burdens and trauma. When you face mental shock or despair, make the Endure Stress move (page 95). As part of that move, you reduce your spirit track by the amount of stress suffered. There are five ranks of stress.
+Stress represents mental burdens and trauma. When you face mental shock or despair, make the [[Endure Stress]] move. As part of that move, you reduce your spirit track by the amount of stress suffered. There are five ranks of stress.
 
 >[!tldr] Ranks of Stress
 >- Troublesome (1 stress): An unsettling incident or frustrating failure.
@@ -10,13 +10,13 @@ Stress represents mental burdens and trauma. When you face mental shock or despa
 
 ^ranksofstress
 
-When you are opposing a foe, they can inflict stress (such as a terrifying visage or demoralizing taunt) based on their rank. Sample foes are in chapter 5 (page 133).
+When you are opposing a foe, they can inflict stress (such as a terrifying visage or demoralizing taunt) based on their rank. Sample foes are in [[05 Chapter - Foes and Encounters|chapter 5]].
 
 When you Endure Stress, you reduce your spirit track by the amount of
 
 stress suffered. If you are at 0 spirit, you are in danger of suffering a debility or falling into desolation.
 
-You can recover spirit by relaxing when you Make Camp (page 64), finding fellowship when you Sojourn (page 71), or when you Forge a Bond (page 74).
+You can recover spirit by relaxing when you [[Make Camp]], finding fellowship when you [[Sojourn]], or when you [[Forge a Bond]].
 
 Unlike harm, you do not inflict stress on others—at least not mechanically. If you
 

@@ -14,6 +14,6 @@ You make this move when forced to Face Death as a result of a miss on the Endure
 
 When you first make this move, you should envision how the afterlife is represented in your version of the Ironlands, or specifically to your character. What do you see and experience? Is it only blackness and void? Do you see iron gates parting before you? Does a ferryman guide you across a blood-red river? Do you hear the songs of your kin calling you to the feast hall? On a strong hit, you might only catch glimpses of what lay beyond. Does your experience support your beliefs or call them into question? If in doubt, Ask the Oracle.
 
-There is also the personage of death to consider. Does death take form, or is it nameless and unknowable? Is it beautiful and welcoming? Sly and full of guile? As grim as the coldest night? On a weak hit, you may decide what death asks of you, which leads to a new quest and the cursed debility (page 38) as you return to the mortal world.
+There is also the personage of death to consider. Does death take form, or is it nameless and unknowable? Is it beautiful and welcoming? Sly and full of guile? As grim as the coldest night? On a weak hit, you may decide what death asks of you, which leads to a new quest and the [[Debilities#^burdens|cursed debility]] as you return to the mortal world.
 
 On a miss, you are dead. Envision what awaits you. You may begin again with a new character in a new version of the Ironlands, or explore your current world and storyline from a new perspective. Perhaps your kin will avenge you?

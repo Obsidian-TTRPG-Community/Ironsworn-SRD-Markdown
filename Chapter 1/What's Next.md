@@ -9,7 +9,7 @@ That’s the basics of playing *Ironsworn*. You’ll see these concepts referenc
 
 4. Review the [[07 Chapter - Gameplay in Depth|example of play]]. See Ironsworn in action to help understand the basic die roll mechanics, how to interpret moves and outcomes, and how to use creative prompts to drive your story forward.
 
-5. [[Swear an Iron Vow]]. Play to see what happens. When you have questions about moves, see page 49. When you need a foe or encounter, see page 133. When you seek answers from an oracle, see page 165.
+5. [[Swear an Iron Vow]]. Play to see what happens. When you have questions about [[03 Chapter - Moves|moves]]. When you need a [[05 Chapter - Foes and Encounters|foe or encounter]]. When you seek answers from an [[06 Chapter - Oracles|oracle]].
 
-1. Dig deeper (page 193). When you’re ready to explore campaign setup guides, additional gameplay options, and best practices, see chapter 7.
+1. [[07 Chapter - Gameplay in Depth|Dig deeper]]. When you’re ready to explore campaign setup guides, additional gameplay options, and best practices.
 

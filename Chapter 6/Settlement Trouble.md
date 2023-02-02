@@ -1,3 +1,4 @@
+# Settlement Trouble
 
 | dice: 1d%   | Result                     |
 |--------|----------------------------|

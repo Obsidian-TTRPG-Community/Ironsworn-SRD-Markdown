@@ -29,6 +29,7 @@ When you are corrupted, envision how this impacts your personality and motivatio
 >[!tldr] Burdens
 >- Cursed is marked when you [[Face Death]] and return with a soul-bound quest. This burden can only be cleared by completing the quest.
 >- Tormented is marked when you [[Face Desolation]] and undertake a quest to prevent a dire future.
+^burdens
 
 Burdens are a result of life-changing experiences that leave you bound to quests. Clearing a burden can only be accomplished by resolving the quest.
 

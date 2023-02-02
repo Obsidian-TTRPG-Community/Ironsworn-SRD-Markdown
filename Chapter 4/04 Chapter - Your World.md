@@ -6,7 +6,7 @@ This chapter includes a brief summary for each major region of the Ironlands. It
 The detail here is intentionally light. Consider it a sketch on a canvas, ready to be adorned with the vibrant colors and details of your story.
 
 ## Travel in the Ironlands
-When traveling through dangerous or unknown areas, make the Undertake a [[Journey]] move. You will set the rank of the journey as appropriate to the fictional circumstances—the distance, region, terrain, threats, and your character’s readiness. You should also consider its importance in your quest. A higher rank means more storyline dedicated to the journey. If you want to move quicker to your destination, give it a lower rank. If this journey represents an important aspect of your character’s story, or you want to create opportunities for interesting events and side quests, give it a higher rank. 
+When traveling through dangerous or unknown areas, make the [[Undertake a Journey]] move. You will set the rank of the journey as appropriate to the fictional circumstances—the distance, region, terrain, threats, and your character’s readiness. You should also consider its importance in your quest. A higher rank means more storyline dedicated to the journey. If you want to move quicker to your destination, give it a lower rank. If this journey represents an important aspect of your character’s story, or you want to create opportunities for interesting events and side quests, give it a higher rank. 
 
 >[!tldr] When in doubt, refer to the following for general guidelines, or [[Ask the Oracle]].
 >- Traveling a moderate distance within a single region is Troublesome.

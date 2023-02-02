@@ -51,11 +51,11 @@ You should also look for opportunities to facilitate conversations at your table
 ### Facilitate, Don't Impose
 You are the guide for your players as they explore the world and the story of their characters. You set the scenes and portray the creatures and characters they encounter. When the narrative hits a lull, you make something happen. But, you are a guide with a vague map and an unreliable compass. Let the players choose their path. Moderate the conversation without dominating it.
 
-For campaign play, you facilitate character creation and worldbuilding to create the framework for your shared story. For a one-shot session (page 231), you can come prepared with a quest outline (page 200) to make the most of the limited time available. No matter what the format of your session, don’t resist when everything goes completely and gloriously off-course.
+For campaign play, you facilitate character creation and worldbuilding to create the framework for your shared story. For a [[One-Shot Play]], you can come prepared with a [[Creating a Quest Outline]] to make the most of the limited time available. No matter what the format of your session, don’t resist when everything goes completely and gloriously off-course.
 
 ### Embrace Chaos
 Don’t overprepare for your session. Feel free to come to the table with absolutely nothing planned. The character-driven quests help you and your players build a story together. Anything that is not a player character or move has very little mechanical detail, and can be introduced on the fly.
 
 Letting go of your plans leaves you open to the unexpected. Cheer for surprising successes. Seize the story possibilities of dramatic failures. Listen to the players and let their suggestions inspire you.
 
-You can also leverage the oracles for answers and inspiration. Ask a yes/ no question through the Ask the Oracle move (page 107), or interpret an response from the oracle tables (page 167). You can even collaborate with your players to interpret an oracle’s answer.
+You can also leverage the oracles for answers and inspiration. Ask a yes/ no question through the [[Ask the Oracle]] move, or interpret an response from the [[06 Chapter - Oracles#^howtousethetables|oracle tables]]. You can even collaborate with your players to interpret an oracle’s answer.
