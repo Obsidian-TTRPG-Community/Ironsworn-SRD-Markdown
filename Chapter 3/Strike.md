@@ -3,11 +3,13 @@
 >When you have initiative and attack in close quarters, roll +iron 
 >When you have initiative and attack at range, roll +edge.
 >
->On a strong hit, inflict +1 harm. You retain initiative.
+>STRONG HIT: Inflict +1 harm. You retain initiative.
 >
->On a weak hit, inflict your harm and lose initiative.
+>**WEAK HIT**: Inflict your harm and lose initiative.
 >
->On a miss, your attack fails and you must Pay the Price. Your foe has initiative.
+>**MISS**: Your attack fails and you must [[Pay the Price#^roll|Pay the Price]]. Your foe has initiative.
+
+^tldr
 
 Make this move when you have initiative and act to inflict harm on your foe. Narratively, this move might represent a focused moment in time—a single sweep of your axe or the flight of an arrow. Or, it can depict a flurry of attacks as you put your opponent on the defensive.
 

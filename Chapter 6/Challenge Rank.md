@@ -1,3 +1,7 @@
+# Challenge Rank
+>[!error] Challenge Rank
+>Roll 1d100:  `dice: [[Challenge Rank#^table]]`
+^roll
 
 | dice: 1d% | Result      |
 |-----------|-------------|

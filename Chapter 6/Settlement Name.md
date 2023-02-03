@@ -1,4 +1,9 @@
+# `=this.file.name`
 >[!info] For the sake of brevity, I am only calling out the results and skip the examples
+
+> [!error] `=this.file.name`
+> Roll 1d100:  `dice: [[Settlement Name#^table]]`
+^roller
 
 | dice: 1d%    | Result                      |
 | ------- | --------------------------- |

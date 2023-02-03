@@ -7,7 +7,7 @@
 >- Partake: Suffer -1 supply and take +1 health for you and any companions.
 >- Relax: Take +1 spirit.
 >- Focus: Take +1 momentum.
->- Prepare: When you break camp, add +1 if you [[Undertake a Journey]].
+>- Prepare: When you break camp, add +1 if you [[Undertake a Journey#^tldr|Undertake a Journey]].
 >
 >**MISS**: You take no comfort. [[Pay the Price#^roll|Pay the price]].
 

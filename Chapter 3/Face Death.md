@@ -2,13 +2,14 @@
 >[!tldr] Face Death
 >When you are brought to the brink of death, and glimpse the world beyond, roll +heart.
 >
->On a strong hit, death rejects you. You are cast back into the mortal world.
+>**STRONG HIT**: Death rejects you. You are cast back into the mortal world.
 >
->On a weak hit, choose one.
->- You die, but not before making a noble sacrifice. Envision yourfinal moments.
->- Death desires something of you in exchange for your life. Envision what it wants (Ask the Oracle if unsure), and Swear an Iron Vow (formidable or extreme) to complete that quest. If you fail to score a hit when you Swear an Iron Vow, or refuse the quest, you are dead. Otherwise, you return to the mortal world and are now cursed. You may only clear the cursed debility by completing the quest. 
+>**WEAK HIT**: Choose one.
+>- You die, but not before making a noble sacrifice. Envision your final moments.
+>- Death desires something of you in exchange for your life. Envision what it wants ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure), and  [[Swear an Iron Vow#^tldr|Swear an Iron Vow]] (formidable or extreme) to complete that quest. If you fail to score a hit when you Swear an Iron Vow, or refuse the quest, you are dead. Otherwise, you return to the mortal world and are now cursed. You may only clear the cursed debility by completing the quest. 
 >
->On a miss, you are dead
+>**MISS**: You are dead
+>^tldr
 
 You make this move when forced to Face Death as a result of a miss on the Endure Harm move, or when you face a physical trauma so horrific that death is the only reasonable outcome. This move is (hopefully) rarely made and a chance for storytelling and for enriching your world and its myths. Make it dramatic and personal.
 

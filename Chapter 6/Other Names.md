@@ -1,3 +1,11 @@
+# `=this.file.name`
+>[!error] `=this.file.name`
+>Roll 1d100:  
+>Giant: `dice: [[Other Names#^table]]|Giants`
+>Varou: `dice: [[Other Names#^table]]|Varou`
+>Troll: `dice: [[Other Names#^table]]|Trolls`
+>^roll
+
 
 | dice: 1d% | Giants   | Varou   | Trolls  |
 |-----------|----------|---------|---------|

@@ -3,7 +3,9 @@
 >[!tldr] Sojourn
 >When you spend time in a community seeking assistance, roll +heart. If you share a bond, add +1.
 >
->On strong hit, you and your allies may each choose two from within the categories below.  On a weak hit, choose one. If you share a bond, choose one more.
+>**STRONG HIT**: You and your allies may each choose two from within the categories below.  
+>
+>**WEAK HIT**: choose one. If you share a bond, choose one more.
 >
 >On a hit, you and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a strong hit, take +2 more for that action. On a weak hit, take +1 more. On a miss, it goes badly and you lose all benefits for that action.
 >
@@ -19,9 +21,10 @@
 >- Plan: Take +2 momentum.
 >
 >Provide Aid
->- Take a quest: Envision what this community needs, or whattrouble it is facing ([[Ask the Oracle]] if unsure). If you chose tohelp, [[Swear an Iron Vow]] and add +1. 
+>- Take a quest: Envision what this community needs, or whattrouble it is facing ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure). If you chose tohelp, [[Swear an Iron Vow#^tldr|Swear an Iron Vow]] and add +1. 
 >
->On a miss, you find no help here. [[Pay the Price]].
+>**MISS**: You find no help here. [[Pay the Price#^roll|Pay the Price]].
+^tldr
 
 Communities stand as an oasis within the perilous wilds of the Ironlands. They are a source of protection, trade, and fellowship. However, there are no grand cities like those that stood in the Old World. Life here is too harsh. Resources too few.
 

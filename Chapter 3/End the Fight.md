@@ -4,16 +4,18 @@
 >
 >When you make a move to take decisive action, and score a strong hit, you may resolve the outcome of this fight. If you do, roll the challenge dice and compare to your progress. Momentum is ignored on this roll.
 >
->On a strong hit, this foe is no longer in the fight. They are killed, out of action, flee, or surrender as appropriate to the situation and your intent (Ask the Oracle if unsure).
+>**STRONG HIT**: This foe is no longer in the fight. They are killed, out of action, flee, or surrender as appropriate to the situation and your intent (Ask the Oracle if unsure).
 >
->On a weak hit, as above, but you must also choose one.• It’s worse than you thought: Endure Harm.
+>**WEAK HIT**: As above, but you must also choose one.• It’s worse than you thought: [[Endure Harm]].
 >- You are overcome: Endure Stress.
 >- Your victory is short-lived: A new danger or foe appears, or anexisting danger worsens.
 >- You suffer collateral damage: Something of value is lost orbroken, or someone important must pay the cost.
 >- You’ll pay for it: An objective falls out of reach.
 >- Others won’t forget: You are marked for vengeance. 
 >
->On a miss, you have lost this fight. Pay the Price.
+>**MISS**: You have lost this fight. [[Pay the Price#^roll|Pay the Price]].
+
+^tldr
 
 End the Fight fulfills your previous moves and the progress you have made in this scene. This is the all-or-nothing moment where the fight is decided. Is your foe defeated? Is your victory a pyrrhic one, and tastes of ash? Does your foe suddenly turn your assumed advantage against you?
 

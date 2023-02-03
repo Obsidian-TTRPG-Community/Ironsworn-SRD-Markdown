@@ -4,9 +4,11 @@
 >
 >**ON A STRONG HIT**, things come to pass as you hoped.
 >
->**ON A WEAK HIT**, your life takes an unexpected turn, but not necessarily for the worse. You find yourself spending your days with someone or in a place you did not foresee. Envision it ([[Ask the Oracle]] if unsure). 
+>**ON A WEAK HIT**, your life takes an unexpected turn, but not necessarily for the worse. You find yourself spending your days with someone or in a place you did not foresee. Envision it ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure). 
 >
 >**ON A MISS**, your fears are realized.
+
+^tldr
 
 You make this move only once—when all your vows are fulfilled or forsaken and you choose to end your character’s adventuring life. For better or worse, the bonds you’ve made will echo through your days. How have you left your mark? Where are you welcomed and where are you shunned? What remains of you when your quests are at an end?
 

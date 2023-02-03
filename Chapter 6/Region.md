@@ -1,5 +1,6 @@
-> [!error] Region
-> `dice: [[20230127152815#^table]]`
+# `=this.file.name`
+> [!error] `=this.file.name`
+> Roll 1d100: `dice: [[region#^table]]`
 ^roller
 
 |dice: 1d100 | Result  |

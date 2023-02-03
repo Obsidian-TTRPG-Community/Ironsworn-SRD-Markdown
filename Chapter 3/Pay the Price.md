@@ -4,6 +4,8 @@
 >- Envision two negative outcomes. Rate one as 'likely' and [[Ask the Oracle|Ask the Oracle]] using the yes/no table. on a 'yes', make that outcome happen. Otherwise, make it the other.
 >- Roll on the following table. If you have difficulty interpreting the result to fit the current situation, roll again.
 
+^tldr
+
 >[!error] Pay the Price
 >Roll 1d100.
 >`dice: [[Pay the Price^table]]`

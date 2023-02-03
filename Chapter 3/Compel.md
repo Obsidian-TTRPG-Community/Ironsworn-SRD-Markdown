@@ -5,11 +5,12 @@
 >- Threaten or incite: Roll +iron.
 >- Lie or swindle: Roll +shadow.
 >
->**ON A STRONG HIT**, they’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to Gather Information, make that move now and add +1.
+>**STRONG HIT**: They’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to [[Gather Information#^tldr]], make that move now and add +1.
 >
->**ON A WEAK HIT**, as above, but they ask something of you in return. Envision what they want (Ask the Oracle if unsure).
+>**WEAK HIT**: As above, but they ask something of you in return. Envision what they want ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure).
 >
->**ON A MISS**, they refuse or make a demand which costs you greatly. Pay the Price.
+>**MISS**: They refuse or make a demand which costs you greatly. Pay the Price.
+^tldr
 
 When you act to persuade someone to do as you ask, or give you something, make this move. It might be through bargaining, or intimidation, charm, diplomacy, or trickery. Use the appropriate stat based on your approach, and roll to see what happens.
 

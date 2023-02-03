@@ -4,11 +4,18 @@
 >
 >Then, roll +heart or +spirit, whichever is higher. 
 >
->On a strong hit, choose one.
+>**STRONG HIT**: Choose one.
 >- Shake it off: If your spirit is greater than 0, suffer -1 momentumin exchange for +1 spirit
->- Embrace the darkness: Take +1 momentum On a weak hit, you press on.
+>- Embrace the darkness: Take +1 momentum 
 >
->On a miss, also suffer -1 momentum. If you are at 0 spirit, you must mark shaken or corrupted (if currently unmarked) or roll on the following table.
+>**WEAK HIT**: You press on.
+>
+>**MISS**: Also suffer -1 momentum. If you are at 0 spirit, you must mark shaken or corrupted (if currently unmarked) or roll on the [[Endure Stress#^dice|consequence]].
+^tldr
+
+>[!error] Endure Stress
+>Roll 1d100:  `dice: [[Endure Stress#^table]]`
+^dice
 
 | dice:1d% | Result                                                                            |
 | -------- | --------------------------------------------------------------------------------- |
@@ -17,8 +24,9 @@
 | 26-50    | You give into a fear or compulsion, and act against your better instincts.        |
 | 51-100   | You persevere.                                                                    |
 
-^endurestress
-Make this move when your courage fails you, when you are unnerved or disheartened, or when you act against your best intentions.
+^table
+
+Make this move when your courage fails you, when you are unnerved or disheartened, or when you act against your best intentions. 
 
 When you are forced to Pay the Price, you should Endure Stress if mental hardship is an obvious and dramatic outcome of the current situation. Also, some moves and assets will direct you to Endure Stress as a cost or concession, and may indicate a specific amount of stress to suffer.
 

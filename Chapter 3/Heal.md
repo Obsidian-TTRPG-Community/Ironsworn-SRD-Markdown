@@ -8,9 +8,9 @@
 > 
 > **MISS**: Your aid is ineffective. [[Pay the Price#^roll|Pay the price]].
 
-^heal
+^tldr
 
-When you tend to physical damage or sickness—for yourself, an ally, or an NPC—make this move. Healing might be represented by staunching bleeding, binding wounds, applying salves, or using herbs to brew a tonic. In the Ironlands, healing is not overtly magical, but some folk know how to treat even the most dire of injuries and illnesses.
+When you tend to physical damage or sickness—for yourself, an ally, or an NPC—make this move. Healing might be represented by staunching bleeding, binding wounds, applying salves, or using herbs to brew a tonic. In the Ironlands, healing is not overtly magical, but some folk know how to treat even the most dire of injuries and illnesses. ^c23cd0
 
 Healing takes time. A few minutes for a quick treatment to get someone on their feet. Hours or perhaps days for more severe injuries. Use what seems appropriate to the circumstances, and consider how this downtime affects your quests and other things going on in your world.
 

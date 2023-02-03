@@ -1,6 +1,7 @@
 ## Out of Supply
 >[!tldr] Out of Supply
 >When your supply is exhausted (reduced to 0), mark unprepared. If you suffer additional -supply while unprepared, you must exchange each additional -supply for any combination of -health, -spirit or -momentum as appropriate to the circumstances.
+>^tldr
 
 When you and your allies reduce your supply to 0 (through a choice or result of another move), you each mark unprepared. The unprepared debility (page 37) can be cleared when you score a hit on the Sojourn move and choose the equip option.
 

@@ -11,11 +11,11 @@
 > - Take control: Maker another move now (not a progress move); when you do, add +1.
 > - Prepare to act: Take +2 momentum.
 >
->**WEAK HIT**: your advantage is short-lived. Take +1 momentum.
+>**WEAK HIT**: Your advantage is short-lived. Take +1 momentum.
 >
->**MISS**: you fail or your assumptions betray you. [[Pay the Price]].
+>**MISS**: You fail or your assumptions betray you. [[Pay the Price#^roll|Pay the Price]].
 
-^secureanadvantage
+^tldr
 
 The structure of Secure an Advantage is similar to Face Danger. You envision your action and roll + your most relevant stat. This move, however, is proactive rather than reactive. You’re evaluating the situation or strengthening your position.
 

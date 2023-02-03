@@ -4,13 +4,14 @@
 >
 >Then, roll +heart or +your companion’s health, whichever is higher. 
 >
->On a strong hit, your companion rallies. Give them +1 health.
+>**STRONG HIT**: Your companion rallies. Give them +1 health.
 >
->On a weak hit, your companion is battered. If their health is 0, they cannot assist you until they gain at least +1 health.
+>**WEAK HIT**: Your companion is battered. If their health is 0, they cannot assist you until they gain at least +1 health.
 >
->On a miss, also suffer -1 momentum. 
+>**MISS**:  Also suffer -1 momentum. 
 >
 >If your companion’s health is 0, they are gravely wounded and out of action. Without aid, they die in an hour or two.If you roll a miss with a 1 on your action die, and your companion’s health is 0, they are now dead. Take 1 experience for each marked ability on your companion asset, and remove it.
+>^tldr
 
 A [[Asset Types|companion]] is an NPC asset which complements your abilities and can help support your actions. When you leverage a companion on a move, you are inherently putting them at risk. If you roll a 1 on your action die when using a companion ability, you should make the companion the focus of any negative outcome for that move. Depending on the fiction of the current situation, this might include harm.
 

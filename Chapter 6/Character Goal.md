@@ -1,4 +1,7 @@
 # Character Goal
+>[!error] `=this.file.name`
+>Roll 1d100: `dice: [[Character Goal#^table]]`
+^roll
 
 | dice: 1d%   | Result                   |
 |--------|--------------------------|

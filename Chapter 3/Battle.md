@@ -7,11 +7,12 @@
 >- Fight using trickery to befuddle your opponents: Roll +shadow.
 >- Fight using careful tactics to outsmart your opponents: Roll +wits.
 >
->On a strong hit, you achieve your objective unconditionally. Take +2 momentum.
+>**STRONG HIT**: You achieve your objective unconditionally. Take +2 momentum.
 >
->On a weak hit, you achieve your objective, but not without cost. Pay the Price.
+>**WEAK HIT**: You achieve your objective, but not without cost. [[Pay the Price#^roll|Pay the Price]].
 >
->On a miss, you are defeated and the objective is lost to you. Pay the Price.
+>**MISS**: You are defeated and the objective is lost to you. [[Pay the Price#^roll|Pay the Price]].
+>^tldr
 
 This move is used as an alternative to a detailed combat scene. When you want to zoom out and resolve a fight in a single roll, make this move.
 

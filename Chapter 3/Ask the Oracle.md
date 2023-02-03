@@ -7,9 +7,10 @@ When **you seek to resolve questions, discover details in the word, determine ho
 > - [[Ask the Oracle#^pick2|Pick two]]: Envision two options. Rate one as 'likely', and roll on the table below to see if it is true. If not, it is the other.
 > - [[Ask the Oracle#^spark|Spark an Idea]]: Brainstorm or use a random prompt.
 
->[!error] Ask the Oracle:  `dice: 1d100`
+>[!error] Ask the Oracle
+>Roll 1d100: `dice: 1d100`
 > 
-> | Odds| The answer is 'yes' if roll... |
+> | odds| The answer is 'yes' if roll... |
 >| --------- | ----------------------------------- |
 >| Almost Certain      | 11 or greater |
 >| Likely| 26 or greater                            |

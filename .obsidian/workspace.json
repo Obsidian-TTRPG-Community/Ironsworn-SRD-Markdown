@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Berserker.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "905acb5c0b676813"
+            "group": "f3ad49064ae5164f"
           }
         ]
       },
@@ -32,20 +32,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Berserker.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "905acb5c0b676813"
+            "group": "f3ad49064ae5164f"
           },
           {
-            "id": "37c923ce46f07d4e",
+            "id": "5863f2a7bbf11f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Undertake a Journey.md",
+                "file": "Chapter 3/Pay the Price.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "708523fc07fad02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Advance.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8aa54e3cc3947f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Advance.md",
                 "mode": "source",
                 "source": true
               }
@@ -80,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"(page \"",
+                "query": "\"test your bond\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Berserker.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Berserker.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Berserker.md"
+                "file": "README.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "24721828bd877628",
@@ -176,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assets/Berserker.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,31 +258,39 @@
     "type": "floating",
     "children": [
       {
-        "id": "5b028fc1bf50c986",
+        "id": "e0d21a48283e078f",
         "type": "window",
         "children": [
           {
-            "id": "0dc2877338f09f0f",
+            "id": "115159a1baba0014",
             "type": "tabs",
             "children": [
               {
-                "id": "de2058c0e130683e",
+                "id": "892200840cdfca37",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chapter 3/Endure Harm.md",
-                    "mode": "preview",
+                    "file": "Chapter 3/Sojourn.md",
+                    "mode": "source",
                     "source": true
                   }
+                }
+              },
+              {
+                "id": "1d2429adf16b0a4d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1187,
-        "y": 15,
+        "x": 1413,
+        "y": 23,
         "width": 638,
         "height": 992,
         "maximize": true,
@@ -268,15 +300,15 @@
   },
   "active": "31f4baa2b1be1446",
   "lastOpenFiles": [
-    "Chapter 1/Match.md",
+    "Chapter 3/Test Your Bond.md",
     "Play Kit/Adventure Moves Summary.md",
-    "Chapter 1/Miss.md",
-    "Chapter 3/Undertake a Journey.md",
-    "Chapter 3/Make Camp.md",
-    "Chapter 3/Resupply.md",
-    "Chapter 3/Endure Harm.md",
-    "Chapter 3/Heal.md",
-    "Chapter 5/Componants of an NPC.md",
-    "Chapter 3/Pay the Price.md"
+    "Chapter 3/Pay the Price.md",
+    "Chapter 3/Advance.md",
+    "Chapter 7/Managing Your Quests.md",
+    "Chapter 7/07 Chapter - Gameplay in Depth.md",
+    "Chapter 3/Forsake Your Vow.md",
+    "Chapter 3/Fulfill Your Vow.md",
+    "Chapter 3/Sojourn.md",
+    "Chapter 3/Reach a Milestone.md"
   ]
 }

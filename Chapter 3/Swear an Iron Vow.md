@@ -4,13 +4,14 @@ Making and fulfilling vows is central to your character’s motivations. These o
 
 >[!tldr] When you swear upon iron to complete a quest, write your vow and give the quest a rank. Then, roll +heart. If you make this vow to a person or community with whom you share a bond, add +1.
 >
->On a STRONG HIT, you are emboldened and it is clear what you must do next ([[Ask the Oracle]] if unsure). Take +2 momentum.
+>STRONG HIT: You are emboldened and it is clear what you must do next ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure). Take +2 momentum.
 >
->On a WEAK HIT, you are determined but begin your quest with more questions than answers. Take +1 momentum, and envision what you do to find a path forward.
+>WEAK HIT: You are determined but begin your quest with more questions than answers. Take +1 momentum, and envision what you do to find a path forward.
 >
->On a MISS, you face a significant obstacle before you can begin your quest. Envision what stands in your way ([[Ask the Oracle]] if unsure), and choose one.
+>MISS: You face a significant obstacle before you can begin your quest. Envision what stands in your way ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure), and choose one.
 >- You press on: Suffer -2 momentum, and do what you must to overcome this obstacle.
->- You give up: [[Forsake Your Vow]].
+>- You give up: [[Forsake Your Vow#^tldr|Forsake your vow]].
+>^tldr
 
 When you encounter a wrong that must be made right, seek to fulfill a personal ambition, or give your word to serve someone, make this move.
 

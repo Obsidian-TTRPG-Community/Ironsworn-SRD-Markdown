@@ -1,3 +1,7 @@
+# Elf Names
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice:[[Elf Names#^table]]`
+^roll
 
 | dice: 1d% | Result     |
 |-----------|------------|

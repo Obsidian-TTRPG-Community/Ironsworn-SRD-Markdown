@@ -1,4 +1,9 @@
-| Roll | Value         |
+# Coastal Water Location
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice: [[Coastal Waters Location#^table]]`
+^roll
+
+| dice: 1d% | Value         |
 | ----- | ------------- |
 | 1     | Fleet              |
 | 2     | Sargassum     |

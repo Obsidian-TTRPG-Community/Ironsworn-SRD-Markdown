@@ -8,7 +8,7 @@
 >
 >**MISS**: Your investigation unearths a dire threat or reveals an unwelcome trught that undermines your quest. [[Pay the price#^roll|Pay the price]]
 
-^gatherinfo
+^tldr
 
 Use this move when you’re not sure of your next steps, when the trail has gone cold, when you make a careful search, or when you do fact-finding.
 

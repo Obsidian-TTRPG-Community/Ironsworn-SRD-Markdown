@@ -1,7 +1,9 @@
->[!error] Roll 1d100
->`dice: [[Theme#^table]]`
+# `=this.file.name`
+> [!error] `=this.file.name`
+> Roll 1d100: `dice: [[Theme#^table]]`
+^roller
 
-| Roll| Value         |
+| dice: 1d% | Value         |
 | --- | ------------ |
 | 1   | Risk             |
 | 2   | Ability      |

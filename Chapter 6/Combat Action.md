@@ -1,6 +1,9 @@
 # Combat Action
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice:[[Combat Action#^table]]`
+>^roll
 
-| dice: 1d100   | Result                                         |
+| dice: 1d%   | Result                                         |
 |--------|------------------------------------------------|
 | 1-3    | Compel a surrender.                            |
 | 4-6    | Coordinate with allies.                        |

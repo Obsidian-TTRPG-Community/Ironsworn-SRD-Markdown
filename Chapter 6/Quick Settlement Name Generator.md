@@ -1,3 +1,7 @@
+# `=this.file.name`
+>[!error] `=this.file.name`
+>Roll 2d100:  `dice: [[Quick Settlement Name Generator#^table]]|Prefix` `dice: [[Quick Settlement Name Generator#^table]]|Suffix`
+>^roll
 
 | dice: 1d100   | Prefix   | Suffix   |
 |--------|----------|----------|
@@ -27,5 +31,3 @@
 | 93-96  | Thorn-   | -home    |
 | 97-00  | Long-    | -wick    |
 ^table
-
-

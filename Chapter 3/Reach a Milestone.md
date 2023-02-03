@@ -9,6 +9,7 @@ alias: page 100
 >- Formidable quest: Mark 1 progress.
 >- Extreme quest: Mark 2 ticks.
 >- Epic quest: Mark 1 tick.
+^tldr
 
 You will face obstacles as you strive to complete quests. Some of these obstacles arise naturally out of the fiction of the situation. Overcoming one challenge leads naturally to the next. Others represent narrative twists introduced when you interpret the result of a move, or when you Ask the Oracle for inspiration. When you overcome one of these obstacles, and it was a notable challenge, make this move and mark progress on your quest.
 

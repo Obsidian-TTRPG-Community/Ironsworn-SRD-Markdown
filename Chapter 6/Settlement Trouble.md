@@ -1,4 +1,7 @@
 # Settlement Trouble
+> [!error] `=this.file.name`
+> Roll 1d100: `dice: [[Settlement Trouble#^table]]`
+^roller
 
 | dice: 1d%   | Result                     |
 |--------|----------------------------|

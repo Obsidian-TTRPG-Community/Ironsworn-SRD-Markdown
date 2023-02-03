@@ -1,6 +1,8 @@
 # Aid Your Ally
 >[!tldr] Aid Your Ally
->When you Secure an Advantage in direct support of an ally, and score a hit, they (instead of you) can take the benefits of the move. If you are in combat and score a strong hit, you and your ally have initiative.
+>When you [[Secure an Advantage#^tldr|Secure an Advantage]] in direct support of an ally, and score a hit, they (instead of you) can take the benefits of the move. If you are in combat and score a strong hit, you and your ally have initiative.
+
+^tldr
 
 When you take an action to aid an ally (another player’s character) through the Secure an Advantage move, you can hand over the benefits of that move to your ally. This represents setting your ally up for success through a supporting action. You might be distracting a foe in combat, scouting ahead on a journey, or giving them encouragement as you stand against a dire threat.
 

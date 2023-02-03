@@ -15,9 +15,9 @@
 > - You are dispirited or afraid: [[Endure Stress]] (1 stress).
 > - You sacrifice resource: Suffer -1 supply.
 > 
-> **MISS**: you fail, or your progress is undermined by a dramatic and costly turn of events. [[Pay the Price]].
+> **MISS**: you fail, or your progress is undermined by a dramatic and costly turn of events. [[Pay the Price#^roll|Pay the Price]].
 
-^facedanger
+^tldr
 
 The Face Danger move is a catch-all for risky, dramatic, or complex actions not covered by another move. If you’re trying to overcome an obstacle or resist a threat, make this move to see what happens. You select which stat to roll based on how you address the challenge.
 

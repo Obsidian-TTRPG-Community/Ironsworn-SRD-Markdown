@@ -13,13 +13,15 @@
 >- Moving into position against an unaware foe, or striking without warning: Roll +shadow.
 >- Ambushed: Roll +wits.
 >
->On a strong hit, take +2 momentum. You have initiative. 
+>**STRONG HIT**: Take +2 momentum. You have initiative. 
 >
->On a weak hit, choose one.
+>**WEAK HIT**: Choose one.
 >- Bolster your position: Take +2 momentum.
 >- Prepare to act: Take initiative.
 >
->On a miss, combat begins with you at a disadvantage. Pay the Price. Your foe has initiative.
+>**MISS**: Combat begins with you at a disadvantage. [[Pay the Price#^roll|Pay the Price]]. Your foe has initiative.
+
+^tldr
 
 Make this move when combat is joined. Set up your progress tracks for your foes and roll to see who is initially in control. Then, play to see what happens.
 

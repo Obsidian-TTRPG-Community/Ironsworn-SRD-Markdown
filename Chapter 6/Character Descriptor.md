@@ -1,5 +1,7 @@
 # Character Descriptor
-
+>[!error] `=this.file.name`
+>Roll 1d100: `dice: [[Character Descriptor#^table]]`
+>^roll
 
 | dice: 1d% | Result       |
 |------|--------------|

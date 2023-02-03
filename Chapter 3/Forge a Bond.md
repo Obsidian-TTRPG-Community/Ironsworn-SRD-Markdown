@@ -6,9 +6,10 @@
 >- Take +1 spirit.
 >- Take +2 momentum.
 >
->On a weak hit, they ask something more of you first. Envision what it is (Ask the Oracle if unsure), do it (or Swear an Iron Vow), and mark the bond. If you decline or fail, Pay the Price.
+>On a weak hit, they ask something more of you first. Envision what it is (Ask the Oracle if unsure), do it (or [[Swear an Iron Vow#^tldr|Swear an Iron Vow]]), and mark the bond. If you decline or fail, [[Pay the Price#^roll|Pay the Price]].
 >
->On a miss, you are refused. Pay the Price.
+>On a miss, you are refused. [[Pay the Price#^roll|Pay the Price]].
+^tldr
 
 Bonds connect you to the people of the Ironlands. They provide a story benefit by enriching your interactions and creating connections with a recurring cast of characters and familiar places. They also provide mechanical benefits by giving you adds when you make moves such as Sojourn or Compel. And, perhaps most importantly, your bonds help determine your ultimate fate when you retire from adventuring and Write Your Epilogue.
 

@@ -4,15 +4,14 @@
 >
 >When you achieve what you believe to be the fulfillment of your vow, roll the challenge dice and compare to your progress. Momentum is ignored on this roll.
 >
->**ON A STRONG HIT**, your quest is complete. Mark experience (troublesome=1; dangerous=2; formidable=3; extreme=4; epic=5). 
+>**STRONG HIT**: Your quest is complete. Mark experience (troublesome=1; dangerous=2; formidable=3; extreme=4; epic=5). 
 >
->**ON A WEAK HIT**, there is more to be done or you realize the truth of your quest. Envision what you discover (Ask the Oracle if unsure). Then, mark experience (troublesome=0; dangerous=1; formidable=2; extreme=3; epic=4). You may Swear an Iron Vow to set things right. If you do, add +1.
+>**WEAK HIT** There is more to be done or you realize the truth of your quest. Envision what you discover ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure). Then, mark experience (troublesome=0; dangerous=1; formidable=2; extreme=3; epic=4). You may [[Swear an Iron Vow#^tldr|Swear an Iron Vow]] to set things right. If you do, add +1.
 >
->**ON A MISS**, your quest is undone. Envision what happens (Ask the Oracle if unsure), and choose one.
+>**MISS**: Your quest is undone. Envision what happens ([[Ask the Oracle#^roll|Ask the Oracle]] if unsure), and choose one.
 >- You recommit: Clear all but one filled progress, and raise the quest’s rank by one (if not already epic).
->- You give up: Forsake Your Vow
-
-^fulfillyourvow
+>- You give up: [[Forsake Your Vow#^tldr|Forsake Your Vow]]
+^tldr
 
 Your path leads here. Your foe is defeated. The relic is found. Your training is complete. The village is saved. The beast is killed. The murder is avenged. Your family’s honor is restored. You are triumphant.
 

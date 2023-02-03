@@ -1,4 +1,7 @@
 # Ironlander Male Names
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice:[[Ironlander Male Names#^table]]`
+^roll
 
 | dice: 1d% | Result  |
 |-----------|---------|

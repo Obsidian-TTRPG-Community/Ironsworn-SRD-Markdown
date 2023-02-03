@@ -1,4 +1,7 @@
 # Ironlander Female Names
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice:[[Ironlander Female Names#^table]]`
+^roll
 
 | dice:1d% | Result  |
 |----------|---------|
@@ -102,3 +105,5 @@
 | 98       | Kayu    |
 | 99       | Bevan   |
 | 100      | Chandra |
+
+^table

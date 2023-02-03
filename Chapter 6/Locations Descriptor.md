@@ -1,3 +1,8 @@
+# Locations Descriptor
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice: [[Locations Descriptor#^table]]`
+>^roll
+
 | dice: 1d%    | Result        |
 |---------|--------------|
 | 1-2     | High         |

@@ -1,3 +1,8 @@
+# `=this.file.name`
+>[!error] `=this.file.name`
+>Roll 1d100:  `dice: [[Mystic Backlash#^table]]`
+>^roll
+
 
 | dice: 1d% | Result                                                                                          |
 |-----------|-------------------------------------------------------------------------------------------------|
