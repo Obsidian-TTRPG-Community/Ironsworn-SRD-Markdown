@@ -95,6 +95,6 @@ Some moves measure your headway against an extended challenge, such as a journey
 
 Other moves utilize a different kind of dice roll, called an [[Oracles]] roll. These moves help determine the outcome of uncertain events out of your character’s control. If you’re playing solo or co-op, you can use the [[Ask the Oracle|Ask the Oracle]] to answer questions about the world, resolve how other characters respond, or determine what happens next.
 
-Some moves don’t require a roll. They might support or reference a separate move, or simply help you resolve a mechanical or narrative situation. Don’t roll dice unless a move tells you to. To learn more about moves, see [[03 Chapter - Moves|page 49]].
+Some moves don’t require a roll. They might support or reference a separate move, or simply help you resolve a mechanical or narrative situation. Don’t roll dice unless a move tells you to. See [[03 Chapter - Moves|chapter 3]] to learn more about moves.
 
 ## ![[The Action Roll]]

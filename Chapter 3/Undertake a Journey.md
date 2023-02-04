@@ -39,7 +39,7 @@ Only the character making the move takes the momentum bonus on a strong hit. But
 
 If you score a strong or weak hit on this move, you reach a waypoint. A waypoint is a feature of the landscape, a settlement, or a point-of-interest. Depending on the information you have or whether you have traveled this area before, a specific waypoint may be known to you. If it isn’t, envision what you find. If you need inspiration, Ask the Oracle.
 
-You will find random tables for waypoint features on page 176, but do not rely too heavily on these generators. Seek inspiration from your fiction and the landscape you envision around you. If it’s interesting, wondrous, or creates new opportunities for drama and adventure, bring it to life.
+You will find random tables for waypoint [[Location|features]], but do not rely too heavily on these generators. Seek inspiration from your fiction and the landscape you envision around you. If it’s interesting, wondrous, or creates new opportunities for drama and adventure, bring it to life.
 
 Depending on the pace of your story and your current situation, you may choose to focus on this waypoint. A settlement can offer roleplay opportunities or provide a chance to recuperate and provision via the Sojourn move. In the wilds, you might make moves such as Make Camp, Resupply, or Secure an Advantage. Or, you can play out a scene not involving moves as you interact with your allies or the world. Mix it up. Some waypoints will pass as a cinematic montage (doubtlessly depicted in a soaring helicopter shot as you trudge over jagged hills). Other waypoints offer opportunities to zoom in, enriching your story and your world.
 
@@ -49,7 +49,7 @@ When you roll a [[Match]], take the opportunity to introduce something unexpecte
 
 When you score a hit and reach a waypoint, you mark progress per the rank of the journey. For example, on a dangerous journey you mark 2 progress. 
 
-(filling two boxes on your progress track) for each waypoint. When you feel you have accumulated enough progress and are ready to make a final push towards your destination, make the Reach Your Destination move. For more on progress tracks and progress moves, see page 14.
+(filling two boxes on your progress track) for each waypoint. When you feel you have accumulated enough progress and are ready to make a final push towards your destination, make the Reach Your Destination move. See [[Progress Tracks|progress moves]] for more.
 
 TRAVEL TIME
 

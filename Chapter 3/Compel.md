@@ -24,4 +24,4 @@ If you promise them something as part of this move, but then fail to do as you p
 
 On a miss, they are insulted, angered, inflexible, see through your lies, or demand something of you which costs you dearly. Their response should introduce new dangers or complications.
 
-Compel may also be used to bring combat to a non-violent conclusion. Your approach dictates the stat you use—typically +iron when you threaten with further violence, +heart when you attempt to surrender or reason with them, and +shadow when you use trickery. Your foe must have a reason to be open to your approach. If unsure, [[Ask the Oracle]]. To learn more, see [[Other Moves in Combat#^compel|page 88]]].
+Compel may also be used to bring combat to a non-violent conclusion. Your approach dictates the stat you use—typically +iron when you threaten with further violence, +heart when you attempt to surrender or reason with them, and +shadow when you use trickery. Your foe must have a reason to be open to your approach. If unsure, [[Ask the Oracle]]. See [[Other Moves in Combat#^compel| other moves in combat]] to learn more about compel uses.

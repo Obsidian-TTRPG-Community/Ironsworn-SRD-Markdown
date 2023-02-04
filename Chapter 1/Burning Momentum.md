@@ -7,4 +7,4 @@ For example, your momentum track is at +6 and your action score is 4. You roll a
 
 Burning momentum is never required. Even if you score a miss on a move and have enough momentum to cancel the challenge dice, you can choose to suffer the failure and save your momentum for a more crucial moment.
 
-After you burn momentum, you must reset your momentum. See the next page for how that works.
+After you burn momentum, you must reset your momentum. See the next section for how that works.

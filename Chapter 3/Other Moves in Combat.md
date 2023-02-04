@@ -1,5 +1,4 @@
 ---
-alias: page 88
 ---
 # Other Moves in Combat
 You won’t rely solely on combat moves in a fight. Make other moves as appropriate to the situation, your intent, and the actions of your foes.
@@ -65,7 +64,7 @@ In solo and co-op play, you can Ask the Oracle about your foe’s objectives, ta
 
 Use this move sparingly. For the most part, trust your instincts. Your actions trigger reactions. Who are you fighting? What do they want? What do they do next? Your first impulse is often the right one.
 
-Chapter 6 includes the Combat Action oracle (page 188) which you can use to prompt an NPC action or response in a fight. You can also leverage the description of your foe’s tactics in chapter 5 (page 133) to guide their behavior.
+Chapter 6 includes the [[Combat Action]] oracle  which you can use to prompt an NPC action or response in a fight. You can also leverage the description of your foe’s tactics in [[05 Chapter - Foes and Encounters|chapter 5]] to guide their behavior.
 
 Be mindful of your surroundings and other characters. Ask questions. “Can I take cover here?”, “Is the river shallow enough to cross?”, “Do the villagers flee?” Consider your foe’s actions and your opportunities in the context of the environment.
 

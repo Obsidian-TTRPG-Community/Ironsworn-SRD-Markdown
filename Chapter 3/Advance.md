@@ -8,4 +8,4 @@ Make this move when you spend experience to add an asset or upgrade an existing 
 
 Narratively, you should consider how your recent experiences and fulfilled vows have led to these new abilities. Was your horse a reward from the thankful chief of a highland clan? Did you train under a powerful mystic?
 
-Has your time spent trekking across the wilds made you adept at woodcraft or navigation? Let your choice of assets flow naturally from the fiction. see page 222 To learn more about spending experience and gaining assets. 
+Has your time spent trekking across the wilds made you adept at woodcraft or navigation? Let your choice of assets flow naturally from the fiction. see [[Managing Your Quests]] to learn more about spending experience and gaining assets. 

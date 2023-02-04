@@ -17,7 +17,7 @@ Making camp can be a purely narrative activity and can be abstracted or roleplay
 
 Unlike most moves, you will not roll + a stat. Instead, you roll +supply. This represents your access to provisions and gear. Huddling in your cloak on the cold ground is a different experience than a warm fire, good food, and a dry tent.
 
-On a strong hit, choose two from the list. You may not select a single option more than once. On a weak hit, choose one. If you recuperate or partake, you can also apply those benefits to your companions (NPC assets—see page 39).
+On a strong hit, choose two from the list. You may not select a single option more than once. On a weak hit, choose one. If you recuperate or partake, you can also apply those benefits to [[Asset Types|companion asset].
 
 If you are traveling with allies, only one of you makes this roll for the group. Each of you may then choose your own benefits on a strong or weak hit. On a miss, you gain no benefits of your downtime. Perhaps you suffered
 

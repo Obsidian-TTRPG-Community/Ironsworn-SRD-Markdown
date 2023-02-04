@@ -7,6 +7,6 @@ Work through the following steps in whatever order you prefer.
 4. Set your health, spirit, and supply to +5.
 5. Set your momentum to +2, your max momentum to +10, and your momentum reset to +2.
 6. Mark up to three background bonds.
-7. Pick three [[Assets List]].
+7. Pick three [[0 Assets List]].
 8. Make note of any important equipment or items.
 9. Set a background vow, and give it a rank of extreme or epic. Then, envision your inciting incident and [[Swear an Iron Vow]]. For details on setting up your campaign.

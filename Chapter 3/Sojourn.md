@@ -30,7 +30,7 @@ Communities stand as an oasis within the perilous wilds of the Ironlands. They a
 
 When you rest, replenish, and share fellowship within a community, make this move. Depending on your level of success, you can choose one or more debilities to clear or tracks to increase. If you share a bond with this community and score a hit, you may select one more.
 
-You may select an option only once. If you recuperate, you can also apply those benefits to your companions (NPC assets—see page 39). If you Sojourn with allies, only one of you makes this move, but all of you can make your own choices on a strong or weak hit.
+You may select an option only once. If you recuperate, you can also apply those benefits to your [[Asset Types#^companions|companions]]. If you Sojourn with allies, only one of you makes this move, but all of you can make your own choices on a strong or weak hit.
 
 Your Sojourn should require several hours or several days, depending on your current circumstances and level of aid and recovery required. Make this move only once when visiting a community, unless the situation changes.
 

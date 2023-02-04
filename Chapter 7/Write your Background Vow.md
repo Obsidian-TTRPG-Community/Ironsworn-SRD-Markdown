@@ -1,4 +1,4 @@
-## Write your Background Vow
+# Write your Background Vow
 When you create your character, you give yourself a background vow to represent a primary motivation or ultimate goal. This vow is part of your character’s backstory. It may be a vow sworn years ago, or one which is a reaction to some recent, major event.
 
 Write down this vow and give it a rank of extreme or epic. You don’t need to make the Swear an Iron Vow move for this quest.

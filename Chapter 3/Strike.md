@@ -15,7 +15,7 @@ Make this move when you have initiative and act to inflict harm on your foe. Nar
 
 On a strong hit, you strike true. By default you inflict 2 harm if you are armed with a deadly weapon (such as a sword, axe, spear, or bow), and 1 harm if not. A strong hit on this move gives you an additional +1 harm (so, 3 harm with a deadly weapon). You may also have additional bonuses provided by assets.
 
-Each point of harm you inflict is marked as progress on your foe’s progress track, as appropriate to their rank. For example, each point of harm equals 2 ticks when fighting an extreme enemy, or 2 full progress boxes when fighting a dangerous enemy. See page 134 for more on NPC ranks and inflicting harm.
+Each point of harm you inflict is marked as progress on your foe’s progress track, as appropriate to their rank. For example, each point of harm equals 2 ticks when fighting an extreme enemy, or 2 full progress boxes when fighting a dangerous enemy. See [[Components of an NPC - Rank|NPC ranks and inflicting harm]] for more.
 
 Narratively, a strong hit represents wounding your enemy or wearing them down. You have initiative and can make your next move. If this attack was intended as a decisive blow, you can attempt to End the Fight.
 

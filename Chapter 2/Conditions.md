@@ -5,7 +5,7 @@
 >- Unprepared is marked when you are at 0 supply and are [[Out of Supply]]. You and your allies share the same supply value, and will mark unprepared together. If you are unprepared, you cannot increase supply.
 >- Encumbered is marked as appropriate to the circumstances when you are carrying excessive or cumbersome weight. 
 
-^conditions
+^tldr
 
 As with all debilities, conditions impact your max momentum and momentum reset. In addition, if you are wounded, shaken, or unprepared, you cannot increase the associated track.
 

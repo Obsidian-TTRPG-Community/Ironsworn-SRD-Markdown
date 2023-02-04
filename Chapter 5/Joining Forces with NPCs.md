@@ -1,5 +1,5 @@
 # Joining Forces with NPCs
-If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a companion asset (page 39)—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to [[Reach a Milestone]].
+If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a [[Asset Types|companion asset]]—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to [[Reach a Milestone]].
 
 >[!example] For example:
 >- If you are charged with protecting NPCs, they might be placed in danger or suffer losses as a result of your failures on moves.

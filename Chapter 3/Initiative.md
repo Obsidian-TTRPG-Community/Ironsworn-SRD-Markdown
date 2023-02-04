@@ -36,7 +36,7 @@ Keep in mind that initiative doesn’t represent who goes next. Talk out what ha
 > 
 > “Quick as I can, nock an arrow, pull back, and send it flying towards the guy with the spear. That’s a Strike.” 
 > 
-> Ash rolls +edge for the Strike (page 79), and scores a weak hit. He can mark progress against the raider, but he has lost initiative. 
+> Ash rolls +edge for the [[Strike]], and scores a weak hit. He can mark progress against the raider, but he has lost initiative. 
 > 
 > “I was just a bit slow with that arrow shot,” Ash says. “Let’s inflict harm for it in a second. First, though, the raider thrusts the spear at you. What do you do?” 
 > 
@@ -44,13 +44,13 @@ Keep in mind that initiative doesn’t represent who goes next. Talk out what ha
 > 
 > “I’m going to try to evade the attack and get inside his guard,” Tayla says. 
 > 
-> “Clash?” Ash asks. This move (page 80) lets Tayla to try to inflict harm on her foe. 
+> “[[Clash]]?” Ash asks. This move lets Tayla to try to inflict harm on her foe. 
 > 
 > “No. I just want to defend.” 
 > 
 > “Sounds like Face Danger then. Roll for it.” 
 > 
-> Tayla makes the Face Danger move (page 60). She gets a strong hit, and now has initiative. 
+> Tayla makes the [[Face Danger]] move. She gets a strong hit, and now has initiative. 
 > 
 > “He thrusts with his spear,” Tayla says, describing the outcome of her move, “but I knock it aside with my shield. I’m inside his guard, bringing back my sword for a swing...” 
 > 
@@ -70,7 +70,7 @@ Keep in mind that initiative doesn’t represent who goes next. Talk out what ha
 > 
 > Tayla makes the roll. Another strong hit. She marks the harm as progress against the raider. He’s at ten progress. 
 > 
-> “I’ll try to End the Fight,” Tayla says, triggering the move that determines whether she’s defeated this raider (page 82). 
+> “I’ll try to [[End the Fight]],” Tayla says, triggering the move that determines whether she’s defeated this raider. 
 > 
 > She makes the roll. A strong hit. The raider is out of this battle. 
 > 

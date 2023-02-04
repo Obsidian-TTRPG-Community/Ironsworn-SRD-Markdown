@@ -1,4 +1,5 @@
 ---
+aliases: Assets List
 ---
 # Assets List
 ## ![[Companion List]]

@@ -1,7 +1,7 @@
 # What's Next
 That’s the basics of playing *Ironsworn*. You’ll see these concepts referenced and expanded throughout this rulebook, but it’s not necessary to read or understand it all before playing. To get started:
 
-1. Create your character (page 31). Set your stats, select your assets, and consider your background and personality.
+1. Create your [[You Are Ironsworn|character]]. Set your stats, select your assets, and consider your background and personality.
 
 2. Build your [[04 Chapter - Your World|world]]. Take a tour of the Ironlands, create your unique vision of the setting, and find inspirational prompts for vows and quests. Or, start playing in your own world.
 

@@ -13,69 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "f3ad49064ae5164f"
-          }
-        ]
-      },
-      {
-        "id": "4880e6afee022987",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1a5c8ba2105e600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "f3ad49064ae5164f"
-          },
-          {
-            "id": "5863f2a7bbf11f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/Pay the Price.md",
+                "file": "Chapter 6/Settlement Name.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "708523fc07fad02d",
+            "id": "5f8f379b4699d2f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Advance.md",
+                "file": "Chapter 7/Create your world.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8aa54e3cc3947f21",
+            "id": "fd11f43a6e0dee6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Advance.md",
+                "file": "Chapter 6/06 Chapter - Oracles.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"test your bond\"",
+                "query": "page",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 7/Create your world.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 7/Create your world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Chapter 7/Create your world.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "24721828bd877628",
@@ -200,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 7/Create your world.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,62 +222,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "144b4dce1c4a9140",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e0d21a48283e078f",
-        "type": "window",
-        "children": [
-          {
-            "id": "115159a1baba0014",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "892200840cdfca37",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapter 3/Sojourn.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "1d2429adf16b0a4d",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1413,
-        "y": 23,
-        "width": 638,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "31f4baa2b1be1446",
+  "active": "5f8f379b4699d2f1",
   "lastOpenFiles": [
-    "Chapter 3/Test Your Bond.md",
-    "Play Kit/Adventure Moves Summary.md",
+    "Chapter 6/06 Chapter - Oracles.md",
+    "Chapter 7/Create your world.md",
+    "Chapter 6/Settlement Name.md",
+    "Assets/0 Assets List.md",
+    "Chapter 3/Ask the Oracle.md",
+    "Assets/Assets Database.md",
+    "Play Kit/Moves Summary.md",
+    "Play Kit/Ask the Oracle^tldr.md",
     "Chapter 3/Pay the Price.md",
-    "Chapter 3/Advance.md",
-    "Chapter 7/Managing Your Quests.md",
-    "Chapter 7/07 Chapter - Gameplay in Depth.md",
-    "Chapter 3/Forsake Your Vow.md",
-    "Chapter 3/Fulfill Your Vow.md",
-    "Chapter 3/Sojourn.md",
-    "Chapter 3/Reach a Milestone.md"
+    "Chapter 7/Quest Flow Chart.png"
   ]
 }

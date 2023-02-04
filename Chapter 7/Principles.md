@@ -16,7 +16,7 @@ Ironsworn rules, moves, and assets often use the term “envision.” This word 
 
 When playing with others, describing your character’s intent and actions is part of the conversation you share at your table. When playing solo, take the time to imagine the scene and take note of important details.
 
-To learn more about the fiction and fictional framing, see page 205.
+See [[The Mechanics and the Fiction#^fictionalframing|fictional framing]] to learn more about the fiction and fictional framing.
 ## Group Play
 ### Forage a Story Through Conversation
 When you begin your campaign, your characters are actors on an empty stage. At first, everything is hidden in shadow. Gradually, the stage is assembled. The lights come up, showing texture and details. Your characters reveal themselves through action and dialogue. Other characters—some important, some unimportant—are introduced. Elements that seemed little more than stage dressing become a focus of the story.
@@ -38,7 +38,7 @@ Creating a record also makes it easier to pick up where you left off when you re
 ### Ask the Oracle, but Trust Your Instincts
 Oracles are a valuable tool for solo play, but don’t let them replace your own storytelling instincts. If it’s dramatic, fits the fiction, and pushes your story forward, make it happen. Use oracles when you don’t have an immediate answer to a question, or when triggered by a match.
 
-The Pay the Price random table (page 105), in particular, isn’t something you should roll on for every failure. Note the first option in this move: “Make the most obvious negative outcome happen.” Let the result of your failed moves flow from the fiction. Make the occasional oracle roll for added uncertainty and surprise.
+The [[Pay the Price]] random table, in particular, isn’t something you should roll on for every failure. Note the first option in this move: “Make the most obvious negative outcome happen.” Let the result of your failed moves flow from the fiction. Make the occasional oracle roll for added uncertainty and surprise.
 ### Let it All Fall Apart
 As a solo player, you have control over the challenges you face and the outcomes of your actions. Don’t let this control keep you from missing out on dramatic opportunities. A great story requires adversity. Failure makes success meaningful. When in doubt, err on the side of the dramatic, even (and especially) when it turns your character’s life upside down or takes your story in an unplanned direction.
 

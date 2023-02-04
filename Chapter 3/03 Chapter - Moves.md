@@ -1,6 +1,3 @@
----
-alias: page 49
----
 # Making Moves
 
 Moves help you decide what happens when you do something risky or
@@ -18,7 +15,7 @@ What are you trying to do? How are you doing it? What complications might you fa
 
 Depending on the scale of the current action, you might be visualizing a montage of days (a journey, for example) or the passing of a mere second (an intense fight). Always think from the standpoint of the fiction—even if it’s obvious what move you’ll make. Then, translate the fiction into the mechanics
 
-of a move, and back to the fiction again as you play out the result. To learn more about how fiction and mechanics interact, see [[The Mechanics and the Fiction|page 203]]
+of a move, and back to the fiction again as you play out the result. To learn more about how fiction and mechanics interact, see [[The Mechanics and the Fiction]]
 
 ### Not Everything is a Move
 Don’t let your session jump from move to move without any roleplay, worldbuilding, or storytelling. If you’re doing something safe and certain, it’s probably not a move. If you’d rather gloss over something, do it.
@@ -47,10 +44,10 @@ When you make a move for your group and face a negative outcome, you should appl
 ## Making Progress Moves
 There are four progress moves: [[Reach Your Destination]], [[End the Fight]], [[Fulfill Your Vow]], and [[Write Your Epilogue]]. These moves represent your attempt to act decisively and resolve a challenge or complete a narrative arc. When you make these moves, you won’t roll your action die and add a stat. Instead, you tally your progress score by adding +1 for each fully filled progress box. Then, roll your challenge dice, compare to your progress score, and resolve the move as directed. You cannot burn momentum when making a progress move, and you are not affected by negative momentum.
 
-To learn more about progress tracks and progress moves, see page 14.
+To learn more about progress tracks and progress moves, see [[Progress Tracks]].
 
 ## Equipment and Moves
-Equipment and items can contribute to the fiction of how you make or avoid a move. What you wear or the items you carry might also affect how you envision your character. Otherwise, equipment is not especially important. To learn more about equipment for your character, see page 25 and page 45.
+Equipment and items can contribute to the fiction of how you make or avoid a move. What you wear or the items you carry might also affect how you envision your character. Otherwise, equipment is not especially important. To learn more about equipment for your character, see [[Chapter 1/Equipment]] and [[Chapter 2/Equipment]].
 
 ### Weapons and Armor
 In combat, the weapons you wield and armor you wear mainly provide narrative detail for the scene. When you envision how you fight, take your equipment into account.
@@ -63,7 +60,7 @@ does your armor affect your combat stance and tactics? You can lose a weapon, ru
 
 This can be represented mechanically through a loss of momentum. Or, you might Endure Stress if an item of sentimental value is destroyed.
 
-Losing access to a weapon also limits your ability to inflict harm (1 harm instead of 2—see page 19). Always start with the fiction. What moves does this item allow you to make or avoid? What happens when you no longer have it?
+Losing access to a weapon also limits your ability to inflict harm (1 harm instead of 2—see [[Harm]]). Always start with the fiction. What moves does this item allow you to make or avoid? What happens when you no longer have it?
 
 If you have a [[combat talents| combat talent asset]], your weapon and armor may provide additional benefit through abilities. As long as you carry the item, you may use those abilities.
 

@@ -1,6 +1,9 @@
 ## Asset Types
 There are four types of assets: Companions, paths, combat talents, and rituals. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
 ### Companions
+
+^companions
+
 Companions are your NPC helpers. When you acquire a companion, give them a name and envision their appearance and personality. If they don’t have a starting ability, choose one. Upgrading a companion enables additional abilities.
 
 Companions utilize a health track and may suffer harm as a result of one of your moves. When your companion takes damage, make the [[Companion Endure Harm]] move to determine the outcome.

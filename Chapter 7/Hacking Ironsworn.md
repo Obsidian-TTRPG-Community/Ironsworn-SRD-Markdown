@@ -10,7 +10,7 @@ A bigger shift in tone may require more work. If you play in a setting where mys
 
 For magic-wielding characters, ritual assets can be envisioned with overt magical effects in high-magic settings. For example, instead of simply wearing an animal pelt using the Bind ritual, you can actually shape-change into the creature. The mechanical outcomes can stay the same, but the fictional framing changes dramatically. Rituals might also be envisioned to require less time to prepare or perform, functioning more like the quick-fire spells of heroic fantasy roleplaying games.
 
-If your setting or character concept don’t work within the confines of existing assets, you have some options to consider on the next page.
+If your setting or character concept don’t work within the confines of existing assets, you have some options to consider on the next section.
 ### Exploring Other Genres
 Ironsworn characters and moves are intentionally only lightly themed for the default setting and tone, and they work just fine across a variety of heroic fiction genres. Undertake a Journey can be envisioned as faster-thanlight travel aboard a spaceship, or as nitrous-fueled journeys on the ruined highways of a post-apocalyptic wasteland.
 

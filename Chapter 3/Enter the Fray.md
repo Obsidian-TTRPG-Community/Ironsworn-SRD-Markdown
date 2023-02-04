@@ -29,4 +29,4 @@ If you are fighting with allies, each of you make your own move to Enter the Fra
 
 If you are fighting a group of troublesome or dangerous foes, you can combine them into a single progress track. This is called a pack. Managing your progress against a pack is easier than tracking them as individuals, and will make combat go a bit faster. For a small pack (about 3 to 5), increase the rankby one. For a large pack (about 6 to 10) increase the rank by two. If you are facing more than 10 troublesome or dangerous foes, group them into smaller packs and associated progress tracks as appropriate.
 
-For more about the foes you might face in the Ironlands, see page 133
+For more about the foes you might face in the Ironlands, see [[05 Chapter - Foes and Encounters|Foes and Encounters]].

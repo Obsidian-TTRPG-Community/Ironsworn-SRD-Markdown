@@ -38,5 +38,5 @@
 ## ![[Forsake Your Vow#^tldr]]
 ## ![[Advance#^tldr]]
 # Fate Moves
-## ![[Pay the Price#^roll]]
-## ![[Ask the Oracle#^roll]]
+## ![[Pay the Price#^tldr]]
+## ![[Ask the Oracle#^tldr]]

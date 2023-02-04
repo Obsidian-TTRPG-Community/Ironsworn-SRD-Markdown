@@ -9,7 +9,7 @@ Your choices may impact your characters and the assets you might reasonably sele
 
 Don’t get mired in building the detail of your setting before you start playing. Leave room for inspiration and surprises. As you play, fill in the blanks to further deepen your narrative and world. You may even discover that some of the choices you make here—which reflect the common knowledge of the people—aren’t the actual truth after all.
 
->The following section is available as a separate workbook at ironswornrpg.com, making it easy to print and mark your choices. If you are playing co-op or guided, do this as a group as part of your first session to give everyone input into your setting. See page 193 for more on starting your campaign.
+>The following section is available as a separate workbook at ironswornrpg.com, making it easy to print and mark your choices. If you are playing co-op or guided, do this as a group as part of your first session to give everyone input into your setting. See [[07 Chapter - Gameplay in Depth|chapter 7]] for more on starting your campaign.
 ## The Old World
 The savage clans called the Skulde invaded the kingdoms of the Old World. Our armies fell. Most were killed or taken into slavery. Those who escaped set sail aboard anything that would float. After an arduous months-long voyage, the survivors made landfall upon the Ironlands.
 
@@ -139,6 +139,8 @@ Our gods are many. They make themselves known through manifestations and miracle
 >You bear the mark of a god. What is it? The priests declare this as a sign you are chosen to fulfill a destiny. Do you accept this fate, and swear to see it through, or are you determined to see it undone? What force opposes you?
 
 ## Firstborn
+^firstborn
+
 The firstborn have passed into legend. Some say the remnants of the old tribes still dwell in deep forests or high mountains. Most believe they were never anything more than myth.
 
 >[!tip] #Quest_Starter
@@ -155,6 +157,9 @@ The firstborn hold sway in the Ironlands. The elves of the deep forests and the 
 >Humans and giants are on the brink of war. What has happened? Who do you side with? Can anything be done to defuse the situation?
 
 ## Beast
+
+^beast
+
 The beasts of old are nothing but legend. A few who travel into the deep forests and high mountains return with wild tales of monstrous creatures, but they are obviously delusional. No such things exist.
 
 >[!tip] #Quest_Starter
@@ -171,7 +176,9 @@ Beasts of all sorts roam the Ironlands. They dwell primarily in the reaches, but
 >Professional slayers earn their keep by killing beasts. This particular slayer, famed throughout the Ironlands for her numerous kills, has gone missing on a hunt. Did she finally meet her match, or is something more nefarious at play. What is your connection to her?
 
 ## Horrors
-Nothing but stories to frighten children.
+^horrors
+
+Nothing but stories to frighten children. 
 
 >[!tip] #Quest_Starter
 >The murders began last season. Local gossip suggests they are the work of a vengeful horror, but there may be more mundane forces at work. What is your connection to these killings? What will you do to stop them?

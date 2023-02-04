@@ -1,5 +1,4 @@
 ---
-alias: page 100
 ---
 # Reach a Milestone
 >[!tldr] Reach a Milestone
@@ -19,4 +18,4 @@ How you define milestones determines the pace of your game. You need to overcome
 
 Not sure if something is worthy as a milestone? If you’re playing co-op or guided, talk it out at the table. If you’re playing solo, trust your instincts and
 
-the type of play experience you want to create. In the end, it’s your game. To learn more about milestones, see page 213.
+the type of play experience you want to create. In the end, it’s your game. See [[Managing Your Quests#^reachingmilestones|Reaching Milesstones]] to learn more.

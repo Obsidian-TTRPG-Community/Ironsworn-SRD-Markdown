@@ -3,7 +3,7 @@ Horrors are supernatural entities. In the Old World, they were superstition and 
 
 Many horrors can be temporarily defeated through physical attacks, but cannot be killed. They are beyond death.
 
-To determine the role of horrors in your setting, see page 129.
+To determine the role of horrors in your setting, see [[Your Truth#^horrors|Your Truth on horrors]].
 
 ## ![[Bonewalker]]
 ## ![[Chimera]]

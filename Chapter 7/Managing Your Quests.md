@@ -1,25 +1,27 @@
 # Managing Your Quests
-Sworn quests are the narrative engine of your Ironsworn adventures. When you start your campaign, your character has two vows: Your background vow (page 195), and a vow triggered by an inciting incident (page 196).
+Sworn quests are the narrative engine of your Ironsworn adventures. When you start your campaign, your character has two vows: [[Write your Background Vow|Your background vow]], and a vow triggered by an [[Envision Your Inciting Incident|inciting incident]].
 
 Making progress in these quests requires you to face and surmount obstacles. You will undertake perilous journeys, uncover information, gain the support of NPCs, recover important items, and defeat powerful foes. Your character will struggle to overcome their own limitations and find their preconceptions and loyalties challenged.
 
 Putting these obstacles in your path isn’t just for dramatic purposes. Succeeding against these trials, finding your way forward, enables you to reach milestones and mark progress on your quests.
 
-	In the fiction, an iron vow is a significant, deeply held promise. If a situation is not dramatic and relevant to your character’s goals and principles, it’s probably not worthy of a vow. It might be a milestone for a quest, or simply a narrative diversion as an opportunity for roleplaying or worldbuilding.
-	
-	If you want to take on an Ironsworn quest, but the problem in front of you doesn’t seem meaningful enough, punch it up. Give it context. Up the stakes.
+>In the fiction, an iron vow is a significant, deeply held promise. If a situation is not dramatic and relevant to your character’s goals and principles, it’s probably not worthy of a vow. It might be a milestone for a quest, or simply a narrative diversion as an opportunity for roleplaying or worldbuilding.
+>
+>If you want to take on an Ironsworn quest, but the problem in front of you doesn’t seem meaningful enough, punch it up. Give it context. Up the stakes.
 
 ## Reaching Milestones
+^reachingmilestones
+
 Imagine your Ironsworn quest as a path of stones leading across the water.
 
 Each stone marks a major step forward—a milestone—triggering the Reach a Milestone move.
 
-You might plan some of your quest milestones in advance (page 200). Others will emerge naturally from the fiction. The outcome of your moves or creative prompts may send your quest in unexpected directions, leading to new milestones and perhaps even new vows.
+You might plan some of your quest milestones in [[Next Steps|advance]]. Others will emerge naturally from the fiction. The outcome of your moves or creative prompts may send your quest in unexpected directions, leading to new milestones and perhaps even new vows.
 
 ### What's Worthy of a Milestone?
 The text of the Reach a Milestone move states:
 
-	When you make significant progress in your quest by overcoming a critical obstacle, completing a perilous journey, solving a complex mystery, defeating a powerful threat, gaining critical support, or acquiring a crucial item, you may mark progress.
+>When you make significant progress in your quest by overcoming a critical obstacle, completing a perilous journey, solving a complex mystery, defeating a powerful threat, gaining critical support, or acquiring a crucial item, you may mark progress.
 
 The pace of your quest will be largely defined by what you decide is “significant progress.” A milestone should accomplish two things:
 
@@ -27,9 +29,9 @@ The pace of your quest will be largely defined by what you decide is “signific
 
 - It should represent a turning point or major step forward in your quest. Achieving a milestone requires effort and sacrifice for your character. A minor discovery or easy success is probably not a milestone, especially for a higher ranked quest. Not every step you take is a milestone.
 ### Marking Progress
-Your vows utilize a standard progress track (page 14) to measure how far you have come in your quest. This progress track is a mechanical representation of the likelihood of being successful when you Fulfill Your Vow (page 101). More filled boxes means a better chance of a hit on that move. The progress track also shows how much story potential you have fulfilled in your quest. Higher ranked vows require more focus in your story and more effort and
+Your vows utilize a standard [[Progress Tracks]] to measure how far you have come in your quest. This progress track is a mechanical representation of the likelihood of being successful when you [[Fulfill Your Vow]]. More filled boxes means a better chance of a hit on that move. The progress track also shows how much story potential you have fulfilled in your quest. Higher ranked vows require more focus in your story and more effort and
 
-sacrifice for your character. When you Reach a Milestone (page 100), mark progress per the rank of your vow.
+sacrifice for your character. When you [[Reach a Milestone]], mark progress per the rank of your vow.
 
 - Troublesome quest: Mark 3 progress.
 - Dangerous quest: Mark 2 progress.
@@ -40,7 +42,7 @@ sacrifice for your character. When you Reach a Milestone (page 100), mark progre
 >[!example]-
 >You’ve scored a miss for Saskia on Undertake a Journey, and the move outcome says you are “waylaid by a perilous event.” Plus, you’ve rolled a match, which gives you an opportunity to introduce an unexpected complication or twist.
 >
->You Ask the Oracle for guidance, rolling on the Action and Theme tables (page 174). The oracle answers, “Surrender vow.”
+>You Ask the Oracle for guidance, rolling on the [[Action]] and [[Theme]] tables. The oracle answers, “Surrender vow.”
 >
 >You consider the meaning of this response. “Surrender” makes you think of someone ambushing you and demanding your surrender. But what about “vow”? You currently have two vows: “Defeat the Red Moon Clan” and “Save the Overseer.” What if this is an opportunity to tie them together as a way to fulfill the match you’ve rolled?
 >
@@ -102,7 +104,7 @@ Keep in mind that swearing an iron vow is a sacred promise. NPCs, particularly p
 ### Intersecting Quests
 If you have undertaken two related quests, you may encounter a situation where a milestone allows you to mark progress on both vows at once. However, this should be a rare event. The two quests are not overlapping paths, with every step a milestone for each. Instead, imagine these paths intersecting at key moments.
 ## Fulfilling Your Vow
-The fiction driving your quest and the mechanical progress represented by your progress track converges in the decisive moment when you believe your quest is at an end. This is when you make the Fulfill Your Vow move (page 101).
+The fiction driving your quest and the mechanical progress represented by your progress track converges in the decisive moment when you believe your quest is at an end. This is when you make the [[Fulfill Your Vow]] move.
 
 Managing your mechanical progress and the fiction to reach this moment requires a bit of stagecraft. It’s the end of the third act. Your actors need to be in position. Your sets and props need to be in place. The lights come up for the final scene...
 
@@ -121,7 +123,7 @@ However, keep in mind it’s not necessary to fill your vow’s progress track b
 >
 >Your vow is fulfilled. You earn 2 experience for the dangerous quest, and 1 bonus experience because of your Banner-Sworn asset.
 ## Forging New Bonds
-As you pursue your quests, the relationships you form and the hardships you endure with other characters can be given fictional and mechanical significance through the Forge a Bond move (page 74).
+As you pursue your quests, the relationships you form and the hardships you endure with other characters can be given fictional and mechanical significance through the [[Forge a Bond]] move.
 
 A new bond can be a natural outcome of a successful quest. When you successfully Fulfill Your Vow in service to a person or community, you may reroll any dice if you Forge a Bond with them.
 
@@ -130,7 +132,7 @@ A new bond can be a natural outcome of a successful quest. When you successfully
 >
 >You make the Forge a Bond move, and roll a miss. Luckily, your successful quest lets you reroll any dice. You roll again, score a strong hit, and mark the bond on your character sheet.
 ## Advancing Your Character
-When you successfully Fulfill Your Vow, you earn experience points. This experience is spent to purchase or upgrade assets through the Advance move (page 103).
+When you successfully Fulfill Your Vow, you earn experience points. This experience is spent to purchase or upgrade assets through the [[Advance]] move.
 
 	When you focus on your skills, receive training, find inspiration, earn a reward, or gain a companion, you may spend 3 experience to add a new asset, or 2 experience to upgrade an asset.
 
@@ -162,5 +164,5 @@ Envisioning how your new abilities connect to your sworn quests and experiences 
 >
 >It’s time to face your past.
 ## Quest Flow Chart
-![[Pasted image 20230129203302.png]]
+![[Quest Flow Chart.png]]
 

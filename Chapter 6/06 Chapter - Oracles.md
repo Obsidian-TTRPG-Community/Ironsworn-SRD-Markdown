@@ -1,9 +1,9 @@
 # Seeking Inspiration
 In Ironsworn, an oracle is anything which generates random results to help determine the outcome of a move, a detail in your world, an NPC action, or a narrative event.
 
-Among the choices provided in the Ask the Oracle move is “spark an idea” (page 108). You can use this option (instead of or in addition to the yes/no table) to answer open-ended questions or inspire new situations.
+Among the choices provided in the [[Ask the Oracle]] move is “spark an idea”. You can use this option (instead of or in addition to the yes/no table) to answer open-ended questions or inspire new situations.
 
-Rolling a match on a move (page 9) can also trigger opportunities to introduce narrative complications and surprises through random prompts. This chapter includes a series of random prompts in the form of tables. You
+Rolling a [[match]] on a move can also trigger opportunities to introduce narrative complications and surprises through random prompts. This chapter includes a series of random prompts in the form of tables. You
 
 can use these oracle tables to answer questions about your world, drive the narrative, and inspire dramatic events and revelations. Some oracles are for specific, mundane questions to streamline play (“What is the healer’s name?”). Others provide more abstract results which you interpret based on the current situation (“What happens next?”).
 ## Oracles in Solo and Co-Op Play
@@ -30,7 +30,7 @@ You can also use oracles as a prompt for sharing control of the narrative with y
 
 >[!tldr] How to Use the Tables
 >- Ask your question and choose an appropriate oracle table.
->- Roll your oracle dice (page 22) to generate a number from 1-100.
+>- Roll your [[Oracles]] dice to generate a number from 1-100.
 >- Check your roll against the table. The oracle will reveal its answer.
 >- Consider the answer in the context of your question and the current situation. Is the result a good fit? Does it trigger a spark of inspiration?
 >- If the answer is difficult to interpret for your situation, you can check up or down one row from your original answer, or reverse the digits (37=73).
@@ -43,7 +43,7 @@ You aren’t limited to a single roll on a single oracle table when asking a que
 
 However, use caution with this technique. Too many questions and too many rolls makes your session feel like an exercise in randomness. Lead with your instincts. Leverage the oracles to fill in the gaps. Keep it moving.
 
->You use the [[Character Goal]] oracle (page 182) to identify an NPC’s primary motivation. The answer is “Avenge a wrong.” You don’t have any immediate ideas on how this relates to this character, so you roll on the [[Theme]] table for more detail. “Land”, the oracle answers. You decide the NPC’s home and farm was taken by a rival. This is the wrong she seeks to put right.
+>You use the [[Character Goal]] oracle to identify an NPC’s primary motivation. The answer is “Avenge a wrong.” You don’t have any immediate ideas on how this relates to this character, so you roll on the [[Theme]] table for more detail. “Land”, the oracle answers. You decide the NPC’s home and farm was taken by a rival. This is the wrong she seeks to put right.
 
 ### Oracle Tables and Matches
 Matches don’t have special significance when rolling on these oracle tables. They can be ignored.
@@ -65,7 +65,7 @@ Use this oracle when you want to randomly select a region with the Ironlands.
 ### [[Location|Oracle 4 Location]]
 Use this oracle when traveling to generate a point-of-interest or to answer a question about a place where someone or something can be found.
 
-Your roll may generate a place or geographical feature which doesn’t make sense in the context of your current location. If so, follow the [[#^fb2629|guidelines]] to generate a different result (look at adjacent rows or reverse the digits). Or, play off the original answer to introduce something unexpected.
+Your roll may generate a place or geographical feature which doesn’t make sense in the context of your current location. If so, follow the [[06 Chapter - Oracles#^howtousethetables|guidelines]] to generate a different result (look at adjacent rows or reverse the digits). Or, play off the original answer to introduce something unexpected.
 
 >You ask, “Where was the traveling mystic bound?”
 >
@@ -125,11 +125,11 @@ Use this oracle to help inspire an action for an NPC in combat. When you’re no
 >
 >You Face Danger to try to resist the taunt...
 ### [[Mystic Backlash]]
-Those who deal in magic may find themselves at the mercy of chaos. This oracle can supplement, or replace, the Pay the Price table (page 105) when resolving the outcome of a failed ritual or other negative interaction with mystical forces. Use this oracle in dramatic moments, or to introduce an unexpected outcome triggered by a match.
+Those who deal in magic may find themselves at the mercy of chaos. This oracle can supplement, or replace, the [[Pay the Price]] table when resolving the outcome of a failed ritual or other negative interaction with mystical forces. Use this oracle in dramatic moments, or to introduce an unexpected outcome triggered by a match.
 ### [[Major Plot Twist]]
 Use this oracle to introduce a narrative surprise or revelation. Most of these results have a negative implication, and can be used to resolve a match at a crucial moment in your story. In particular, this is an effective tool to leverage
 
-when you make a move with matched 10’s on the challenge dice. This oracle offers similar results to the Pay the Price table (page 105), but is more focused on dramatic events tied to your current quests.
+when you make a move with matched 10’s on the challenge dice. This oracle offers similar results to the [[Pay the Price]] table, but is more focused on dramatic events tied to your current quests.
 
 >[!example]
 >Khulan has been defeated, but you roll a miss with matched 10’s when you Fulfill Your Vow. Perhaps these raiders are part of a larger force? The village is still in danger, leaving your vow unfulfilled. To get some more detail and resolve the match, you check the Major Plot Twist oracle. The oracle responds, “Two seemingly unrelated situations are shown to be connected.”

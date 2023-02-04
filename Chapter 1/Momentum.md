@@ -7,7 +7,7 @@ When you have **positive momentum**, things are going your way. You have the adv
 
 When you have **negative momentum**, the tide has turned against you. You face tough odds. You are outmatched. Your next steps are uncertain.
 
-	Momentum persists through scenes and between gaming sessions. When you finish a session, write down your current momentum value. Then, pick up where you left off when you return to the game.
+>Momentum persists through scenes and between gaming sessions. When you finish a session, write down your current momentum value. Then, pick up where you left off when you return to the game.
 
 ## Gaining Momentum
 You gain momentum as an outcome or option when making moves. This represents securing advantages, acquiring new insight, and making progress in your quests. If a move tells you to add momentum (phrased as “take +X momentum”), increase your momentum track by the value indicated. The choices you make in a move, or the assets you use to support the move, may modify the amount rewarded.
@@ -28,7 +28,7 @@ in exchange for temporary advantages. If you take this option, adjust your momen
 ## ![[Burning Momentum]]
 
 ## Resetting Momentum
-After you burn momentum, you must adjust your momentum track to your momentum reset value. The default reset is +2. This value may be lowered when your character suffers from a debility (page 36). Debilities are conditions such as wounded, shaken, or unprepared. They are marked on your character sheet as a result of a move or a narrative event.
+After you burn momentum, you must adjust your momentum track to your momentum reset value. The default reset is +2. This value may be lowered when your character suffers from a [[Debilities|debility]]. Debilities are conditions such as wounded, shaken, or unprepared. They are marked on your character sheet as a result of a move or a narrative event.
 >[!tldr] Losing Momentum
 >- If you have one debility marked, your momentum reset is +1.
 >- If you have more than one debility marked, your momentum reset is 0. There is a box below the momentum track where you can record your current momentum reset.
@@ -36,9 +36,9 @@ After you burn momentum, you must adjust your momentum track to your momentum re
 When your momentum is less than 0, and it matches the value of your action die, you must cancel your action die. You still check the success of your move by comparing your stat plus your adds to the challenge dice, but you won’t have your action die to help you.
 
 ## Minimum Momentum
-Your momentum cannot drop lower than -6. This is your minimum momentum. If a move tells you to lower your momentum, and your momentum is already at its minimum, you will instead make the Face a Setback move (page 97). As a result of this move, you reduce your health, spirit, or supply (or some combination thereof) by that amount, or undermine your progress in a current quest, journey, or fight.
+Your momentum cannot drop lower than -6. This is your minimum momentum. If a move tells you to lower your momentum, and your momentum is already at its minimum, you will instead make the [[Face a Setback]] move. As a result of this move, you reduce your health, spirit, or supply (or some combination thereof) by that amount, or undermine your progress in a current quest, journey, or fight.
 
-Make moves such as Secure an Advantage (page 61) to increase your momentum.
+Make moves such as [[Secure an Advantage]] to increase your momentum.
 
 ## Max Momentum
 Your max momentum starts at +10, and is reduced by 1 for every marked debility. There’s a spot on your character sheet to record this value. You can’t increase momentum over your max. If you are at your max and a move gives you an option to increase your momentum, you can’t take that benefit.

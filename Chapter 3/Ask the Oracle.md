@@ -4,12 +4,9 @@ When **you seek to resolve questions, discover details in the word, determine ho
 > [!tldr] You may...
 > - Draw a conclusion: decide the answer based on the most interesting and obvious result.
 > - Ask a yes/no question: Decide the odds of a 'yes', and roll on the table below to check the answer.
-> - [[Ask the Oracle#^pick2|Pick two]]: Envision two options. Rate one as 'likely', and roll on the table below to see if it is true. If not, it is the other.
-> - [[Ask the Oracle#^spark|Spark an Idea]]: Brainstorm or use a random prompt.
-
->[!error] Ask the Oracle
+>>[!error] Ask the Oracle
 >Roll 1d100: `dice: 1d100`
-> 
+>> 
 > | odds| The answer is 'yes' if roll... |
 >| --------- | ----------------------------------- |
 >| Almost Certain      | 11 or greater |
@@ -17,8 +14,13 @@ When **you seek to resolve questions, discover details in the word, determine ho
 >| 50/50     | 51 or greater                     |
 >|Unlikely     | 76 or greater                  |
 >| Small Chance     | 91 or greater          |
-
 ^roll
+>
+> - [[Ask the Oracle#^pick2|Pick Two]]: Envision two options. Rate one as 'likely', and roll on the table below to see if it is true. If not, it is the other.
+> - [[Ask the Oracle#^spark|Spark an Idea]]: Brainstorm or use a random prompt.
+
+^tldr
+
 
 In solo or co-op play, use this move when you have a question or want to reveal details about your world. In guided play, the GM may use this move to answer their own questions or inspire the story of your game session.
 

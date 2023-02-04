@@ -1,3 +1,6 @@
+---
+aliases: chapter 7
+---
 # Starting Your Campaign
 
 An Ironsworn campaign is a series of connected game sessions. You will explore your world and the life of your character as you swear vows and struggle to see them fulfilled. You will journey across the Ironlands, run afoul of troubles, fight fearsome foes, and form bonds with people and communities. Through it all, you make decisions as your character and explore what it means to be Ironsworn in a harsh land.
@@ -16,69 +19,23 @@ Feel free to intermix world creation and character creation. The choices you mak
 >You set your stats. Your iron is 3, representing your strength, prowess in battle, and fierce resolve. Then, 2 for heart and wits, and 1 for edge and shadow. For your assets, you choose Shield-Bearer and Veteran. You’re not sure about your third asset, so you decide to pick it once you are further along in creating your world and starting situation.
 >
 >Finally, you give your character a name: Saskia
-## Create Your World
-If you are playing in the Ironlands or a similar setting, work through the ''[[Your Truth]]'. Review the options and make selections. Keep an eye out for quest starters which trigger an idea for a [[Write your Background Vow|background vow]] or an [[Envision Your Inciting Incident|inciting incident]].
-
-Next, choose where your story begins. Have a look at the regions on page 112. Where are your characters located? Are they part of a community, or wandering the wilderness? Talk it out with other players and envision the setting. Mark the location on your map.
->[!example]-
->You envision some basic characteristics of your home village. It is a small settlement along the southern fringes of the Havens. It is surrounded by fields and sits astride a wide river.
->
->You roll on the [[Settlement Name table]], and the oracle answers, “Cinderhome.” You envision the burnt ruins of the former longhouse. It is a place haunted by a long-dead overseer who died in the fire.
->
->You mark Cinderhome on your map. This is where Saskia’s adventures begins.
-
-If you prefer, you can just spend a few moments defining some basic facts for your world. Jump in and discover the rest in play.
-
-If you are using your own setting or one drawn from another source (such as an RPG, book, or film), you can leverage the information on that setting to determine your character’s situation and the troubles you may encounter.
-
-### Collaborating to Build Your World
-If you are playing a co-op or guided campaign, you should work through the initial process of worldbuilding with the other players. Depending on your preferences, you can spend a few minutes quickly roughing out the basics of your setting, or you can dive deep for an hour or two of collaborative creation. Talk it over with the other players to ensure you have the same expectations for your initial session. Even if you give this initial activity some focus, leave open questions and blank spaces to fill in through play.
-
-If you are the GM, you should facilitate discussion and contribute to the worldbuilding. Take cues from the players and make suggestions to help formulate potential quests and adversaries.
+## ![[Create your world]]
 ## ![[Mark your Background Bonds]]
 ## ![[Write your Background Vow]]
 ## ![[Envision Your Inciting Incident]]
-## Set the Scene
-You have two options for starting play: You can begin with the normal world, or in media res.
-
-### ![[The Normal World]]
-
-### ![[In Media Res]]
-## Swear an Iron Vow
-To set your quest in motion, as a response to the inciting incident, [[Quest Moves|make this move]]. But first, start with the fiction. Envision the scene. Describe what you say and how you perform the ceremony. This is an important moment for your character.
-
->[!question] What was the result of your move?
->- Did you score a strong hit? Envision your first steps. Do you Undertake a Journey? Do you Compel someone into action? Play to see what happens next, and make moves as appropriate.
->- Did you score a weak hit? Your next steps are unclear. This may typically lead to new scenes and new moves. Perhaps you [[Gather Information]] as you try to identify a path forward.
->- Did you score a miss? An unexpected danger or obstacle stands in your way. Envision what it is, or [[Ask the Oracle]]. Then, play to see what happens as you attempt to overcome this stumbling block. For an inciting incident, give your new vow a rank of troublesome, dangerous, or formidable.
-
->[!example]-
->You envision the scene as you kneel before your overseer. You curl your hands tight around the iron blade of your sword—so tight that you open a cut in your palm. You pay the wound no mind. The blood fuels the promise. “I will see you healed,” you say. “I swear it.”
->
->You roll the dice. Because you have the Banner-Sworn asset and serve the overseer, you may reroll any dice. It’s a strong hit. A good omen. You write your vow on your character sheet and give it a rank of dangerous. Per the move outcome, “you are emboldened and it is clear what you must do next.” What do you know about this disease? What’s your likely path forward? Envision the answer, talk it out, or [[Ask the Oracle]].
-
-### Sharing Your Vow with Allies
-If you are playing with allies, only one of you will make the Swear an Iron Vow move. Other players can make the [[Aid your Ally]] move as a way of representing their own commitment to this vow. If you share this quest with your allies, each of you write the vow and any progress is marked by all players.
-## Next Steps
-Depending on the result of your Swear an Iron Vow move, your character may have a clear path forward, may have more questions than answers, or may need to overcome an immediate obstacle or threat before they can undertake their quest. You, as the player or GM, interpret what this result means. Not sure where to begin? Ask the Oracle.
-
->[!example]-
->You’ve sworn your vow and scored a strong hit, which means the next steps—from your character’s perspective—are clear. As the player you don’t know where to begin. Are there any clues to the source of the sickness? You Ask the Oracle by rolling on the [[Action]] and [[Theme]] tables.
->
->The oracle answers, “Leave” and “Trade.” What does it mean? Your first instinct is to interpret this answer as having something to do with a trade caravan. Perhaps one left your village on the same day the overseer fell ill? There must be a connection.
->
->With your immediate goal in sight, you can roleplay your preparations and [[Undertake a Journey]] to set off after the caravan.
-[[Creating a Quest Outline]]
+## ![[Set the Scene]]
+## ![[Chapter 7/Swear an Iron Vow|Swear an Iron Vow]]
+## ![[Next Steps]]
 ## Campaign Setup Summary
 > [!tldr] Campaign Setup Summary
 > 1. [[07 Chapter - Gameplay in Depth|Create your character]]. Envision your character. Choose your name, set your stats, and select your assets. Refer to [[02 Chapter - Your Character|chapter 2]] for details. If you prefer, you can start by creating your world (below).
-> 2. Create your world (page 194). If you are playing in the Ironlands, refer to [[04 Chapter - Your World|chapter 4]] and the ‘Your Truths’ exercise (page 122). Otherwise, establish the basic truths of your own world. Envision where your story will begin and mark it on your map.
-> 3. Create your background bonds (page 195). Mark up to three bonds to represent your connections to home, friends, family, or other loyalties. Make note of these bonds, and mark a tick for each.
-> 4. Write your background vow (page 195). Create a sworn quest as backstory for your character. Write down this vow and give it a rank of extreme or epic. You don’t need to make the Swear an Iron Vow move for this quest.
-> 5. Envision your inciting incident (page 196). Come up with the problem that drives your character into action.
-> 6. Set the Scene (page 198). Decide whether you want to start with a prologue (the normal world), or in the midst of the problem (in media res). Envision the scene and begin play.
-> 7. Swear an Iron Vow (page 199). Make the move and write down your vow. Give it a rank of troublesome, dangerous, or formidable.
-> 8. Take your next steps (page 200). Based on the outcome of your Swear an Iron Vow move, envision what you do or what happens next. If you like, you may outline the milestones of your adventure. Then, play to see what happens.
+> 2. [[Create your world]]. If you are playing in the Ironlands, refer to [[04 Chapter - Your World|chapter 4]] and the ‘[[Your Truth]]’ exercise. Otherwise, establish the basic truths of your own world. Envision where your story will begin and mark it on your map.
+> 3. [[Mark your Background Bonds]]. Mark up to three bonds to represent your connections to home, friends, family, or other loyalties. Make note of these bonds, and mark a tick for each.
+> 4. [[Write your Background Vow]]. Create a sworn quest as backstory for your character. Write down this vow and give it a rank of extreme or epic. You don’t need to make the Swear an Iron Vow move for this quest.
+> 5. [[Envision your inciting incident]]. Come up with the problem that drives your character into action.
+> 6. [[Set the Scene]]. Decide whether you want to start with a prologue (the normal world), or in the midst of the problem (in media res). Envision the scene and begin play.
+> 7. [[Chapter 7/Swear an Iron Vow|Swear an Iron Vow]]. Make the move and write down your vow. Give it a rank of troublesome, dangerous, or formidable.
+> 8. Take your [[next steps]]. Based on the outcome of your Swear an Iron Vow move, envision what you do or what happens next. If you like, you may outline the milestones of your adventure. Then, play to see what happens.
 > ^campaignsetupsummary
 
 # ![[The Mechanics and the Fiction]]

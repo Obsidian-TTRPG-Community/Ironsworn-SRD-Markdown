@@ -161,52 +161,52 @@ It’s a strong hit. This battle is done.
 ## Aftermath
 The defeat of the wyvern, while notable, isn’t relevant to my current quest and doesn’t seem worthy of a milestone. However, it has introduced an opportunity for a new narrative hook. Who is this woman and her child? Why are they here? I envision the scene.
 
-	Kuno wrests her sword from the beasts mouth, and surveys the cost of the battle. One of their band lies dead. The other warriors gather spent arrows and spears. None appear hurt.
-
-	She moves to the wagon, hobbling a bit as pain flares through her ribs. The mother is standing there, knife raised in a trembling hand. She is looking past Kuno, at the wyvern.
-
-“Are either of them obviously injured?” I Ask the Oracle, and set the odds as unlikely.
-
-“No,” the oracle answers.
-
-	“Be easy,” Kuno says to the woman. “This beast is dead.” The mother blinks. Then, she gives Kuno and the others a quick,
-
-	sharp glance. Kuno imagines her wondering, “Have I leapt from the frying pan into the fire?”
-
-	“We mean you no harm,” Kuno says, “but these are dangerous lands. Where is your home?”
+>Kuno wrests her sword from the beasts mouth, and surveys the cost of the battle. One of their band lies dead. The other warriors gather spent arrows and spears. None appear hurt.
+>
+>She moves to the wagon, hobbling a bit as pain flares through her ribs. The mother is standing there, knife raised in a trembling hand. She is looking past Kuno, at the wyvern.
+>
+>“Are either of them obviously injured?” I Ask the Oracle, and set the odds as unlikely.
+>
+>“No,” the oracle answers.
+>
+>“Be easy,” Kuno says to the woman. “This beast is dead.” The mother blinks. Then, she gives Kuno and the others a quick,
+>
+>sharp glance. Kuno imagines her wondering, “Have I leapt from the frying pan into the fire?”
+>
+>“We mean you no harm,” Kuno says, “but these are dangerous lands. Where is your home?”
 
 I don’t have the answer to that question, so it’s an opportunity to Ask the Oracle. This time, I decide to leverage the [[Settlement Trouble]] oracle . It’s primarily intended for introducing a problem within a community, but works here as a way of establishing what has driven this woman and her child so far into the wilds.
 
-I roll, and the oracle tells me, “Roll twice.” I do so, and am told, “Someone is captured” and “Dangerous tradition.”
-
-	Looking for a bit more detail, I also roll on the Action oracle (page 174). It tells me, “Hunt.
-
-	“Who is captured”, I Ask the Oracle. “Another child?” I give it a 50/50 chance. “Yes,” the Oracle responds.
-
-Some Ironlanders cling to superstition and dark rites as protection against these harsh lands. What if this woman’s child was taken as part of such a ceremony? I envision how these prompts come together, and how they might connect to my current quest.
-
-	The woman kneels, and coaxes her child out from under the wagon. She gives the girl a hug and a few soft words. Then, she turns back to Kuno.
-
-	“We live in a steading south of here,” she says. “Sova.”
-
-	Kuno shrugs. She hasn’t heard of it.
-
-	“They raided our home. Took my boy. Took the other men.” “Who?”
-
-	“His name is Kenrick,” the woman says. She curses in an Old World tongue and spits on the ground. “It’s him that’s making them do it. He’s gone mad.”
-
-	“Making them do what?”
-
-	“They call it the hunt.” Tears well in the woman’s eyes, but she brushes them away with the back of her hand. Her expression hardens with determination. “They’ll kill my boy. I’ve got to stop them.”
-
-	“Who is Kenrick?” Kuno asks.
-
-	“The overseer of Mournwood.”
-
-	Kuno sighs. Out of the frying pan and into the fire, indeed. “We are bound for Mournwood,” Kuno says.
-
-	Snow begins to fall. It’s the first snow of winter, a portent of the grim, cold months ahead.
-
-	Kuno brings her hand to the iron ring which hangs from a silver chain around her neck. The metal thrums with expectant energy.
-
-	Such is the life of the Ironsworn.
+>I roll, and the oracle tells me, “Roll twice.” I do so, and am told, “Someone is captured” and “Dangerous tradition.”
+>
+>Looking for a bit more detail, I also roll on the [[Action]] oracle. It tells me, “Hunt.
+>
+>“Who is captured”, I Ask the Oracle. “Another child?” I give it a 50/50 chance. “Yes,” the Oracle responds.
+>
+>Some Ironlanders cling to superstition and dark rites as protection against these harsh lands. What if this woman’s child was taken as part of such a ceremony? I envision how these prompts come together, and how they might connect to my current quest.
+>
+>The woman kneels, and coaxes her child out from under the wagon. She gives the girl a hug and a few soft words. Then, she turns back to Kuno.
+>
+>“We live in a steading south of here,” she says. “Sova.”
+>
+>Kuno shrugs. She hasn’t heard of it.
+>
+>“They raided our home. Took my boy. Took the other men.” “Who?”
+>
+>“His name is Kenrick,” the woman says. She curses in an Old World tongue and spits on the ground. “It’s him that’s making them do it. He’s gone mad.”
+>
+>“Making them do what?”
+>
+>“They call it the hunt.” Tears well in the woman’s eyes, but she brushes them away with the back of her hand. Her expression hardens with determination. “They’ll kill my boy. I’ve got to stop them.”
+>
+>“Who is Kenrick?” Kuno asks.
+>
+>“The overseer of Mournwood.”
+>
+>Kuno sighs. Out of the frying pan and into the fire, indeed. “We are bound for Mournwood,” Kuno says.
+>
+>Snow begins to fall. It’s the first snow of winter, a portent of the grim, cold months ahead.
+>
+>Kuno brings her hand to the iron ring which hangs from a silver chain around her neck. The metal thrums with expectant energy.
+>
+>Such is the life of the Ironsworn.
