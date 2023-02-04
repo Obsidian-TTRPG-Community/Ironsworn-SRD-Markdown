@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 7/Create your world.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7/Create your world.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 7/Create your world.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 7/Create your world.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 7/Create your world.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,15 +224,15 @@
   },
   "active": "5f8f379b4699d2f1",
   "lastOpenFiles": [
+    "Work in Progress/README.md",
     "Chapter 6/06 Chapter - Oracles.md",
-    "Chapter 7/Create your world.md",
-    "Chapter 6/Settlement Name.md",
-    "Assets/0 Assets List.md",
-    "Chapter 3/Ask the Oracle.md",
-    "Assets/Assets Database.md",
-    "Play Kit/Moves Summary.md",
-    "Play Kit/Ask the Oracle^tldr.md",
-    "Chapter 3/Pay the Price.md",
-    "Chapter 7/Quest Flow Chart.png"
+    "Chapter 6/Character Descriptor.md",
+    "Chapter 6/Character Role.md",
+    "Chapter 6/Character Goal.md",
+    "Chapter 6/Challenge Rank.md",
+    "Chapter 6/Action.md",
+    "Chapter 6/Location.md",
+    "Chapter 6/Elf Names.md",
+    "Chapter 7/Create your world.md"
   ]
 }
