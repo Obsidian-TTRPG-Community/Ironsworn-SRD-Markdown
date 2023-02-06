@@ -1,0 +1,8 @@
+# ![[01 Chapter - The Basics]]
+# ![[02 Chapter - Your Character]]
+# ![[03 Chapter - Moves]]
+# ![[04 Chapter - Your World]]
+# ![[05 Chapter - Foes and Encounters]]
+# ![[06 Chapter - Oracles]]
+# ![[07 Chapter - Gameplay in Depth]]
+# ![[0 Assets List]]

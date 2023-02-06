@@ -8,37 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31f4baa2b1be1446",
+            "id": "5d969d5ed0ec6be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 6/Settlement Name.md",
-                "mode": "source",
+                "file": "Chapter 3/Ask the Oracle.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "5f8f379b4699d2f1",
+            "id": "79567b5613652a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fd11f43a6e0dee6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 6/06 Chapter - Oracles.md",
-                "mode": "source",
+                "file": "Chapter 3/Table of Contents.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 3/Table of Contents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 3/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Chapter 3/Table of Contents.md"
               }
             }
           }
@@ -169,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 3/Table of Contents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,17 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f8f379b4699d2f1",
+  "active": "79567b5613652a90",
   "lastOpenFiles": [
-    "Work in Progress/README.md",
-    "Chapter 6/06 Chapter - Oracles.md",
-    "Chapter 6/Character Descriptor.md",
-    "Chapter 6/Character Role.md",
-    "Chapter 6/Character Goal.md",
-    "Chapter 6/Challenge Rank.md",
-    "Chapter 6/Action.md",
-    "Chapter 6/Location.md",
-    "Chapter 6/Elf Names.md",
-    "Chapter 7/Create your world.md"
+    "Chapter 3/Ask the Oracle.md",
+    "Chapter 3/Swear an Iron Vow.md",
+    "Chapter 3/Forge a Bond.md",
+    "Chapter 4/Your Truth.md",
+    "Chapter 4/Regions of the Ironlands.png",
+    "Chapter 6/Region.md",
+    "Chapter 2/Asset Types.md",
+    "Chapter 3/Sojourn.md",
+    "Play Kit/Moves Summary.md",
+    "Chapter 3/Face Danger.md"
   ]
 }
