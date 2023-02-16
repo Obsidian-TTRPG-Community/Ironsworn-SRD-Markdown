@@ -5,10 +5,10 @@
 		{"id":"dd80118713b31886","x":-220,"y":240,"width":250,"height":100,"type":"text","text":"When your action or the current situation triggers a move, make that move."},
 		{"id":"7328358c3cde5a47","x":-60,"y":-5,"width":250,"height":150,"type":"text","text":"Ask and answer questions about the world, other characters, and what happens next (or [[Ask the Oracle]])."},
 		{"id":"ba5d8771da3ad001","x":-20,"y":420,"width":130,"height":260,"type":"text","text":"MISS\n\nYou've failed,\nor encounter a costly turn of events."},
-		{"id":"663177b43686caba","x":-160,"y":420,"width":130,"height":260,"type":"text","text":"WEAK HIT\n\nYou've made progress,\nbut aren't in control."},
 		{"id":"f493d8d2121f4fc7","x":-305,"y":420,"width":135,"height":260,"type":"text","text":"STRONG HIT\n\nYou've succeeded.\nYou are in control."},
 		{"id":"2a51155d08e54275","x":-107,"y":760,"width":175,"height":60,"type":"text","text":"What happens next?"},
-		{"id":"20cc30f8dac091ea","x":-324,"y":760,"width":173,"height":60,"type":"text","text":"What do you do next?"}
+		{"id":"20cc30f8dac091ea","x":-324,"y":760,"width":173,"height":60,"type":"text","text":"What do you do next?"},
+		{"id":"663177b43686caba","x":-160,"y":420,"width":130,"height":260,"type":"text","text":"WEAK HIT\n\nYou've made progress,\nbut aren't in control."}
 	],
 	"edges":[
 		{"id":"3b7e120939332a53","fromNode":"36d2f8aa8056dd0b","fromSide":"bottom","toNode":"4ecd4b2f38146c4f","toSide":"top"},

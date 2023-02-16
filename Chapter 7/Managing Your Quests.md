@@ -164,5 +164,7 @@ Envisioning how your new abilities connect to your sworn quests and experiences 
 >
 >It’s time to face your past.
 ## Quest Flow Chart
+See the flowchart below for how quest flow is managed.
+![[Quest Flow Chart.canvas]]
 ![[Quest Flow Chart.png]]
 

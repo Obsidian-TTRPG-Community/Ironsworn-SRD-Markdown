@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d1777228de328e0c",
+        "id": "2c35861e1cdc4d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "5d969d5ed0ec6be6",
+            "id": "ab0322697f0b7cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/Ask the Oracle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "79567b5613652a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/Table of Contents.md",
+                "file": "Chapter 6/Character Goal.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "page",
+                "query": "\"Flow of Play\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/Table of Contents.md",
+                "file": "Chapter 6/Character Goal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/Table of Contents.md",
+                "file": "Chapter 6/Character Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/Table of Contents.md"
+                "file": "Chapter 6/Character Goal.md"
               }
             }
           }
@@ -157,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 3/Table of Contents.md",
+                "file": "Chapter 6/Character Goal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79567b5613652a90",
+  "active": "ab0322697f0b7cc4",
   "lastOpenFiles": [
-    "Chapter 3/Ask the Oracle.md",
-    "Chapter 3/Swear an Iron Vow.md",
-    "Chapter 3/Forge a Bond.md",
-    "Chapter 4/Your Truth.md",
-    "Chapter 4/Regions of the Ironlands.png",
-    "Chapter 6/Region.md",
-    "Chapter 2/Asset Types.md",
-    "Chapter 3/Sojourn.md",
-    "Play Kit/Moves Summary.md",
-    "Chapter 3/Face Danger.md"
+    "Chapter 6/Character Descriptor.md",
+    "Chapter 6/Challenge Rank.md",
+    "Chapter 6/Mystic Backlash.md",
+    "Chapter 6/Theme.md",
+    "Chapter 6/Action.md",
+    "Chapter 6/Character Goal.md",
+    "Chapter 6/Ironlander Female Names.md",
+    "Chapter 6/Ironlander Male Names.md",
+    "Chapter 6/Combat Action.md",
+    "Chapter 6/Settlement Trouble.md"
   ]
 }

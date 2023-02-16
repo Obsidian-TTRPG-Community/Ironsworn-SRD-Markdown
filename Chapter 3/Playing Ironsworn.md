@@ -3,7 +3,7 @@ In the Ironsworn tabletop roleplaying game, you are a hero  sworn to undertake p
 
 To play Ironsworn, you create your character, make some decisions about the world you inhabit, and set the story in motion. When you encounter something dangerous or uncertain, your choices and the dice determine the outcome.
 
-> [!tldr] Three mods of Ironsworn
+> [!tldr] ### Three mods of Ironsworn
 > - **Guided**: One or more players take the role of their characters, the protagonist in your story, while a gamemaster (GM) moderates the session. the GM helps bring the world to life, portays the people and creatures you encounter, and makes decisions about the outcome of your actions.
 > - **Cooperative (Co-Op)**: You and one or more friends play together to overcome challenges and complete quests. A GM is not required. The Ironsworn game system will help you explore the dramatic stories of your characters and their faithful vows.
 > - **Solo**: As with Co-Op, no GM is necessary. You portray a lone heroic character in a dangerous world. Good luck!
@@ -16,7 +16,7 @@ If you’re playing solo, just grab some materials and get started. A session ca
 
 If you’re playing with one or more friends—either guided or co-op—you probably want to dedicate enough time to make some progress in your quests. Plan on a couple of hours or more.
 
-> [!tldr] Make sure you have:
+> [!tldr] ### Make sure you have:
 > - Two ten-sided dice (d10) for each player. These are your challenge dice.
 > - One six-sided die (d6) for each player. This is your action die.
 > - Optionally, another pair of ten-sided dice to use as your oracle dice.

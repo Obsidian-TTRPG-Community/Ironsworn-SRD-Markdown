@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"7e7efbea1cd135f1","x":-171,"y":-346,"width":250,"height":60,"type":"text","text":"Swear an Iron Vow"},
+		{"id":"331a418a0a9ae15a","x":-179,"y":-247,"width":266,"height":112,"type":"text","text":"Envicsion your next steps and the challenges you face.\nPlay to see what happens"},
+		{"id":"78a742f987a2e607","x":-179,"y":-90,"width":266,"height":95,"type":"text","text":"You face a crucial challenge related to your quest. do you overcome it?"},
+		{"id":"8db70f1af3d30f6b","x":9,"y":78,"width":250,"height":60,"type":"text","text":"Will this quest continue?"},
+		{"id":"087eadd235d9ddca","x":-346,"y":78,"width":250,"height":60,"type":"text","text":"[[Reach a Milestone]] and mark progress."},
+		{"id":"315c9854505cf954","x":9,"y":237,"width":250,"height":60,"type":"text","text":"[[Forsake Your Vow]]"},
+		{"id":"d89a67c74f599dcf","x":-346,"y":237,"width":250,"height":60,"type":"text","text":"Is your vow ready to be fulfilled?"},
+		{"id":"8a4799176ac9a341","x":-346,"y":406,"width":250,"height":60,"type":"text","text":"[[Fulfill Your Vow]] and mark experience."},
+		{"id":"4bf337ae08ed785f","x":9,"y":377,"width":250,"height":119,"type":"text","text":"When you are read, [[Advance]] to spend your experience on new and upgraded assets"}
+	],
+	"edges":[
+		{"id":"82b51b01894fbd59","fromNode":"78a742f987a2e607","fromSide":"bottom","toNode":"087eadd235d9ddca","toSide":"top","label":"Yes"},
+		{"id":"9ead4c51150fe134","fromNode":"78a742f987a2e607","fromSide":"bottom","toNode":"8db70f1af3d30f6b","toSide":"top","label":"No"},
+		{"id":"8b9d9482b2a7b73f","fromNode":"331a418a0a9ae15a","fromSide":"bottom","toNode":"78a742f987a2e607","toSide":"top"},
+		{"id":"cafaf102064dde3e","fromNode":"7e7efbea1cd135f1","fromSide":"bottom","toNode":"331a418a0a9ae15a","toSide":"top"},
+		{"id":"903a0df6ebdaa4a9","fromNode":"8db70f1af3d30f6b","fromSide":"right","toNode":"7e7efbea1cd135f1","toSide":"right","label":"Yes"},
+		{"id":"85342217ecefd67b","fromNode":"087eadd235d9ddca","fromSide":"bottom","toNode":"d89a67c74f599dcf","toSide":"top"},
+		{"id":"b8410b05506fcfae","fromNode":"8db70f1af3d30f6b","fromSide":"bottom","toNode":"315c9854505cf954","toSide":"top","label":"No"},
+		{"id":"fe403a6e798820b1","fromNode":"d89a67c74f599dcf","fromSide":"bottom","toNode":"8a4799176ac9a341","toSide":"top","label":"Yes"},
+		{"id":"cafee4d37d43afe3","fromNode":"8a4799176ac9a341","fromSide":"left","toNode":"7e7efbea1cd135f1","toSide":"left","label":"No"},
+		{"id":"60a2932fbe221c34","fromNode":"8a4799176ac9a341","fromSide":"right","toNode":"4bf337ae08ed785f","toSide":"left"}
+	]
+}
